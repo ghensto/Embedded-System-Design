@@ -1,0 +1,1967 @@
+Archive member included because of file (symbol)
+
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(memcpy.o)
+                              Objects - GMAP PIC32 Demo\GOL.o (memcpy)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(memset.o)
+                              Objects - GMAP PIC32 Demo\Grid.o (memset)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(general-exception.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o (_general_exception_context)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o (exit)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+                              Objects - GMAP PIC32 Demo\StaticText.o (malloc)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc_free.o)
+                              Objects - GMAP PIC32 Demo\Chart.o (free)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(errno.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o) (errno)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobdata.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o) (_libc_data)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobdata.o) (_filbuf_simple)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o) (pthread_mutex_lock)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o) (getpagesize)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(general-exception.o) (_general_exception_handler)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o (_bootstrap_exception_handler)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o (_on_reset)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o (_on_bootstrap)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-nmi-handler.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o (_nmi_handler)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_getc.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o) (_mon_getc)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_write.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o) (_mon_write)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o) (_exit)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_putc.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_write.o) (_mon_putc)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libm.a(cos32.o)
+                              Objects - GMAP PIC32 Demo\Meter.o (cos)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libm.a(sin32.o)
+                              Objects - GMAP PIC32 Demo\Meter.o (sin)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libm.a(reduct32.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libm.a(cos32.o) (reduct)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libm.a(sincos32.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libm.a(cos32.o) (sincon)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libm.a(func32.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libm.a(cos32.o) (sigmax)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libm.a(dp32.o)
+                              Objects - GMAP PIC32 Demo\Meter.o (dpmul)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libm.a(fp32.o)
+                              Objects - GMAP PIC32 Demo\Meter.o (fpmul)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(pcache.o)
+                              Objects - GMAP PIC32 Demo\TicTacToe.o (CheKseg0CacheOn)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_disable_interrupts_lib.o)
+                              Objects - GMAP PIC32 Demo\TicTacToe.o (INTDisableInterrupts)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_restore_interrupts_lib.o)
+                              Objects - GMAP PIC32 Demo\TicTacToe.o (INTRestoreInterrupts)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_mv_int_lib.o)
+                              Objects - GMAP PIC32 Demo\TicTacToe.o (INTEnableSystemMultiVectoredInt)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_tbl_lib.o)
+                              Objects - GMAP PIC32 Demo\mchpGfxLCC.o (INTEnable)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_ev_enable_flags_lib.o)
+                              Objects - GMAP PIC32 Demo\mchpGfxLCC.o (DmaChnSetEvEnableFlags)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_open_lib.o)
+                              Objects - GMAP PIC32 Demo\mchpGfxLCC.o (DmaChnOpen)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_enable_lib.o)
+                              Objects - GMAP PIC32 Demo\mchpGfxLCC.o (DmaChnEnable)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_write_event_control_flags_lib.o)
+                              Objects - GMAP PIC32 Demo\mchpGfxLCC.o (DmaChnWriteEventControlFlags)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_txfer_lib.o)
+                              Objects - GMAP PIC32 Demo\mchpGfxLCC.o (DmaChnSetTxfer)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_reg_map_tbl_lib.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_ev_enable_flags_lib.o) (_DmaMapTbl)
+C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_interrupts_lib.o)
+                              C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_mv_int_lib.o) (INTEnableInterrupts)
+
+Allocating common symbols
+Common symbol       size              file
+
+_cursorY            0x2               Objects - GMAP PIC32 Demo\Primitive.o
+_rpnlX2             0x2               Objects - GMAP PIC32 Demo\GOL.o
+_fontOrientation    0x1               Objects - GMAP PIC32 Demo\Primitive.o
+_fontFirstChar      0x2               Objects - GMAP PIC32 Demo\Primitive.o
+_rpnlR              0x2               Objects - GMAP PIC32 Demo\GOL.o
+_clipRgn            0x2               Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+_fontHeight         0x2               Objects - GMAP PIC32 Demo\Primitive.o
+GraphicsFrame       0x1e0             Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+_bevelDrawType      0x1               Objects - GMAP PIC32 Demo\Primitive.o
+_cursorX            0x2               Objects - GMAP PIC32 Demo\Primitive.o
+_rpnlX1             0x2               Objects - GMAP PIC32 Demo\GOL.o
+_fontLastChar       0x2               Objects - GMAP PIC32 Demo\Primitive.o
+_font               0x4               Objects - GMAP PIC32 Demo\Primitive.o
+_lineType           0x2               Objects - GMAP PIC32 Demo\Primitive.o
+_clipRight          0x2               Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+_clipBottom         0x2               Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+_rpnlEmbossDkColor  0x2               Objects - GMAP PIC32 Demo\GOL.o
+_rpnlEmbossSize     0x2               Objects - GMAP PIC32 Demo\GOL.o
+_clipTop            0x2               Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+_color              0x2               Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+tickscaler          0x4               Objects - GMAP PIC32 Demo\TicTacToe.o
+_clipLeft           0x2               Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+_rpnlY2             0x2               Objects - GMAP PIC32 Demo\GOL.o
+_rpnlEmbossLtColor  0x2               Objects - GMAP PIC32 Demo\GOL.o
+_rpnlFaceColor      0x2               Objects - GMAP PIC32 Demo\GOL.o
+_rpnlY1             0x2               Objects - GMAP PIC32 Demo\GOL.o
+_lineThickness      0x1               Objects - GMAP PIC32 Demo\Primitive.o
+
+Microchip PIC32 Memory-Usage Report
+
+kseg0 Program-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.text                   0x9d000000        0x2178c      137100  Application's executable code 
+.rodata                 0x9d021790         0x3138       12600  Read-only constant data 
+.data                   0x9d0248c8          0x5ac        1452  Data-initialization template 
+.sdata                  0x9d024e74           0x28          40  Small data-initialization template 
+      Total kseg0_program_mem used  :     0x24e98      151192  28.8% of 0x80000
+
+kseg0 Boot-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.startup                0x9fc00490          0x1e0         480  C startup code 
+         Total kseg0_boot_mem used  :       0x1e0         480  19.9% of 0x970
+
+Exception-Memory Usage 
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.app_excpt              0x9fc01180           0x10          16  General-Exception handler 
+.vector_12              0x9fc01380            0x8           8  Interrupt Vector 12 
+.vector_37              0x9fc016a0            0x8           8  Interrupt Vector 37 
+          Total exception_mem used  :        0x20          32  0.8% of 0x1000
+
+kseg1 Boot-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.reset                  0xbfc00000           0x10          16  Reset handler 
+.bev_excpt              0xbfc00380           0x10          16  BEV-Exception handler 
+         Total kseg1_boot_mem used  :        0x20          32  2.7% of 0x490
+        --------------------------------------------------------------------------
+         Total Program Memory used  :     0x250b8      151736  28.5% of 0x81e00
+        --------------------------------------------------------------------------
+
+
+kseg1 Data-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.data                   0xa0000000          0x5ac        1452  Initialized data 
+.sdata                  0xa00005ac           0x28          40  Small initialized data 
+.sbss                   0xa00005d4          0x20c         524  Small uninitialized data 
+.bss                    0xa00007e0          0x310         784  Uninitialized data 
+.heap                   0xa0000af0          0xbb8        3000  Dynamic Memory heap 
+.stack                  0xa00016a8          0xa28        2600  Minimum space reserved for stack 
+         Total kseg1_data_mem used  :      0x20d0        8400  6.4% of 0x20000
+        --------------------------------------------------------------------------
+            Total Data Memory used  :      0x20d0        8400  6.4% of 0x20000
+        --------------------------------------------------------------------------
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+kseg0_program_mem 0x9d000000         0x00080000         xr
+kseg0_boot_mem   0x9fc00490         0x00000970
+exception_mem    0x9fc01000         0x00001000
+kseg1_boot_mem   0xbfc00000         0x00000490
+debug_exec_mem   0xbfc02000         0x00000ff0
+config3          0xbfc02ff0         0x00000004
+config2          0xbfc02ff4         0x00000004
+config1          0xbfc02ff8         0x00000004
+config0          0xbfc02ffc         0x00000004
+kseg1_data_mem   0xa0000000         0x00020000         w !x
+sfrs             0xbf800000         0x00100000
+configsfrs       0xbfc02ff0         0x00000010
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+LOAD Objects - GMAP PIC32 Demo\StaticText.o
+LOAD Objects - GMAP PIC32 Demo\Window.o
+LOAD Objects - GMAP PIC32 Demo\Button.o
+LOAD Objects - GMAP PIC32 Demo\Chart.o
+LOAD Objects - GMAP PIC32 Demo\CheckBox.o
+LOAD Objects - GMAP PIC32 Demo\EditBox.o
+LOAD Objects - GMAP PIC32 Demo\GOL.o
+LOAD Objects - GMAP PIC32 Demo\GOLFontDefault.o
+LOAD Objects - GMAP PIC32 Demo\Grid.o
+LOAD Objects - GMAP PIC32 Demo\GroupBox.o
+LOAD Objects - GMAP PIC32 Demo\ListBox.o
+LOAD Objects - GMAP PIC32 Demo\Meter.o
+LOAD Objects - GMAP PIC32 Demo\Picture.o
+LOAD Objects - GMAP PIC32 Demo\RadioButton.o
+LOAD Objects - GMAP PIC32 Demo\Slider.o
+LOAD Objects - GMAP PIC32 Demo\Primitive.o
+LOAD Objects - GMAP PIC32 Demo\TimeDelay.o
+LOAD Objects - GMAP PIC32 Demo\SST25VF016.o
+LOAD Objects - GMAP PIC32 Demo\TouchScreen.o
+LOAD Objects - GMAP PIC32 Demo\SSD1926.o
+LOAD Objects - GMAP PIC32 Demo\GOLSchemeDefault.o
+LOAD Objects - GMAP PIC32 Demo\drv_spi.o
+LOAD Objects - GMAP PIC32 Demo\TouchScreenResistive.o
+LOAD Objects - GMAP PIC32 Demo\TicTacToe.o
+LOAD Objects - GMAP PIC32 Demo\TTT_Images.o
+LOAD Objects - GMAP PIC32 Demo\TCON_SSD1289.o
+LOAD Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+                0x00000001                __MPLAB_BUILD = 0x1
+                0x00000001                __MPLAB_DEBUG = 0x1
+                0x00000001                __MPLAB_DEBUGGER_PIC32MXSK = 0x1
+                0x00000bb8                _min_heap_size = 0xbb8
+                0x00000a28                _min_stack_size = 0xa28
+LOAD C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4\libgcc.a
+START GROUP
+LOAD C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libdebug.a
+LOAD C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a
+LOAD C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libm.a
+LOAD C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libe.a
+LOAD C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libdsp.a
+LOAD C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral.a
+LOAD C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a
+END GROUP
+LOAD C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4\libgcc.a
+                0x00000400                PROVIDE (_min_stack_size, 0x400)
+                0x00000000                PROVIDE (_min_heap_size, 0x0)
+LOAD C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/./proc/32MX795F512L\processor.o
+                0x00000001                PROVIDE (_vector_spacing, 0x1)
+                0x9fc01000                _ebase_address = 0x9fc01000
+                0xbfc00000                _RESET_ADDR = 0xbfc00000
+                0xbfc00380                _BEV_EXCPT_ADDR = 0xbfc00380
+                0xbfc00480                _DBG_EXCPT_ADDR = 0xbfc00480
+                0xbfc02000                _DBG_CODE_ADDR = 0xbfc02000
+                0x9fc01180                _GEN_EXCPT_ADDR = (_ebase_address + 0x180)
+
+.config_BFC02FF0
+ *(.config_BFC02FF0)
+
+.config_BFC02FF4
+                0xbfc02ff4        0x4
+ *(.config_BFC02FF4)
+ .config_BFC02FF4
+                0xbfc02ff4        0x4 Objects - GMAP PIC32 Demo\TicTacToe.o
+
+.config_BFC02FF8
+                0xbfc02ff8        0x4
+ *(.config_BFC02FF8)
+ .config_BFC02FF8
+                0xbfc02ff8        0x4 Objects - GMAP PIC32 Demo\TicTacToe.o
+
+.config_BFC02FFC
+                0xbfc02ffc        0x4
+ *(.config_BFC02FFC)
+ .config_BFC02FFC
+                0xbfc02ffc        0x4 Objects - GMAP PIC32 Demo\TicTacToe.o
+
+.reset          0xbfc00000       0x10
+ *(.reset)
+ .reset         0xbfc00000       0x10 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+                0xbfc00000                _reset
+
+.bev_excpt      0xbfc00380       0x10
+ *(.bev_handler)
+ .bev_handler   0xbfc00380       0x10 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+
+.dbg_excpt      0xbfc00480        0x0
+                0xbfc00480                . = (. + DEFINED (_DEBUGGER)?0x8:0x0)
+
+.dbg_code       0xbfc02000        0x0
+                0xbfc02000                . = (. + DEFINED (_DEBUGGER)?0xff0:0x0)
+
+.app_excpt      0x9fc01180       0x10
+ *(.gen_handler)
+ .gen_handler   0x9fc01180       0x10 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+
+.vector_0       0x9fc01200        0x0
+ *(.vector_0)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_0) <= (_vector_spacing << 0x5))), function at exception vector 0 too large)
+
+.vector_1       0x9fc01220        0x0
+ *(.vector_1)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_1) <= (_vector_spacing << 0x5))), function at exception vector 1 too large)
+
+.vector_2       0x9fc01240        0x0
+ *(.vector_2)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_2) <= (_vector_spacing << 0x5))), function at exception vector 2 too large)
+
+.vector_3       0x9fc01260        0x0
+ *(.vector_3)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_3) <= (_vector_spacing << 0x5))), function at exception vector 3 too large)
+
+.vector_4       0x9fc01280        0x0
+ *(.vector_4)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_4) <= (_vector_spacing << 0x5))), function at exception vector 4 too large)
+
+.vector_5       0x9fc012a0        0x0
+ *(.vector_5)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_5) <= (_vector_spacing << 0x5))), function at exception vector 5 too large)
+
+.vector_6       0x9fc012c0        0x0
+ *(.vector_6)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_6) <= (_vector_spacing << 0x5))), function at exception vector 6 too large)
+
+.vector_7       0x9fc012e0        0x0
+ *(.vector_7)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_7) <= (_vector_spacing << 0x5))), function at exception vector 7 too large)
+
+.vector_8       0x9fc01300        0x0
+ *(.vector_8)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_8) <= (_vector_spacing << 0x5))), function at exception vector 8 too large)
+
+.vector_9       0x9fc01320        0x0
+ *(.vector_9)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_9) <= (_vector_spacing << 0x5))), function at exception vector 9 too large)
+
+.vector_10      0x9fc01340        0x0
+ *(.vector_10)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_10) <= (_vector_spacing << 0x5))), function at exception vector 10 too large)
+
+.vector_11      0x9fc01360        0x0
+ *(.vector_11)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_11) <= (_vector_spacing << 0x5))), function at exception vector 11 too large)
+
+.vector_12      0x9fc01380        0x8
+ *(.vector_12)
+ .vector_12     0x9fc01380        0x8 Objects - GMAP PIC32 Demo\TicTacToe.o
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_12) <= (_vector_spacing << 0x5))), function at exception vector 12 too large)
+
+.vector_13      0x9fc013a0        0x0
+ *(.vector_13)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_13) <= (_vector_spacing << 0x5))), function at exception vector 13 too large)
+
+.vector_14      0x9fc013c0        0x0
+ *(.vector_14)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_14) <= (_vector_spacing << 0x5))), function at exception vector 14 too large)
+
+.vector_15      0x9fc013e0        0x0
+ *(.vector_15)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_15) <= (_vector_spacing << 0x5))), function at exception vector 15 too large)
+
+.vector_16      0x9fc01400        0x0
+ *(.vector_16)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_16) <= (_vector_spacing << 0x5))), function at exception vector 16 too large)
+
+.vector_17      0x9fc01420        0x0
+ *(.vector_17)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_17) <= (_vector_spacing << 0x5))), function at exception vector 17 too large)
+
+.vector_18      0x9fc01440        0x0
+ *(.vector_18)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_18) <= (_vector_spacing << 0x5))), function at exception vector 18 too large)
+
+.vector_19      0x9fc01460        0x0
+ *(.vector_19)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_19) <= (_vector_spacing << 0x5))), function at exception vector 19 too large)
+
+.vector_20      0x9fc01480        0x0
+ *(.vector_20)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_20) <= (_vector_spacing << 0x5))), function at exception vector 20 too large)
+
+.vector_21      0x9fc014a0        0x0
+ *(.vector_21)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_21) <= (_vector_spacing << 0x5))), function at exception vector 21 too large)
+
+.vector_22      0x9fc014c0        0x0
+ *(.vector_22)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_22) <= (_vector_spacing << 0x5))), function at exception vector 22 too large)
+
+.vector_23      0x9fc014e0        0x0
+ *(.vector_23)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_23) <= (_vector_spacing << 0x5))), function at exception vector 23 too large)
+
+.vector_24      0x9fc01500        0x0
+ *(.vector_24)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_24) <= (_vector_spacing << 0x5))), function at exception vector 24 too large)
+
+.vector_25      0x9fc01520        0x0
+ *(.vector_25)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_25) <= (_vector_spacing << 0x5))), function at exception vector 25 too large)
+
+.vector_26      0x9fc01540        0x0
+ *(.vector_26)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_26) <= (_vector_spacing << 0x5))), function at exception vector 26 too large)
+
+.vector_27      0x9fc01560        0x0
+ *(.vector_27)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_27) <= (_vector_spacing << 0x5))), function at exception vector 27 too large)
+
+.vector_28      0x9fc01580        0x0
+ *(.vector_28)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_28) <= (_vector_spacing << 0x5))), function at exception vector 28 too large)
+
+.vector_29      0x9fc015a0        0x0
+ *(.vector_29)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_29) <= (_vector_spacing << 0x5))), function at exception vector 29 too large)
+
+.vector_30      0x9fc015c0        0x0
+ *(.vector_30)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_30) <= (_vector_spacing << 0x5))), function at exception vector 30 too large)
+
+.vector_31      0x9fc015e0        0x0
+ *(.vector_31)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_31) <= (_vector_spacing << 0x5))), function at exception vector 31 too large)
+
+.vector_32      0x9fc01600        0x0
+ *(.vector_32)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_32) <= (_vector_spacing << 0x5))), function at exception vector 32 too large)
+
+.vector_33      0x9fc01620        0x0
+ *(.vector_33)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_33) <= (_vector_spacing << 0x5))), function at exception vector 33 too large)
+
+.vector_34      0x9fc01640        0x0
+ *(.vector_34)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_34) <= (_vector_spacing << 0x5))), function at exception vector 34 too large)
+
+.vector_35      0x9fc01660        0x0
+ *(.vector_35)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_35) <= (_vector_spacing << 0x5))), function at exception vector 35 too large)
+
+.vector_36      0x9fc01680        0x0
+ *(.vector_36)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_36) <= (_vector_spacing << 0x5))), function at exception vector 36 too large)
+
+.vector_37      0x9fc016a0        0x8
+ *(.vector_37)
+ .vector_37     0x9fc016a0        0x8 Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_37) <= (_vector_spacing << 0x5))), function at exception vector 37 too large)
+
+.vector_38      0x9fc016c0        0x0
+ *(.vector_38)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_38) <= (_vector_spacing << 0x5))), function at exception vector 38 too large)
+
+.vector_39      0x9fc016e0        0x0
+ *(.vector_39)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_39) <= (_vector_spacing << 0x5))), function at exception vector 39 too large)
+
+.vector_40      0x9fc01700        0x0
+ *(.vector_40)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_40) <= (_vector_spacing << 0x5))), function at exception vector 40 too large)
+
+.vector_41      0x9fc01720        0x0
+ *(.vector_41)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_41) <= (_vector_spacing << 0x5))), function at exception vector 41 too large)
+
+.vector_42      0x9fc01740        0x0
+ *(.vector_42)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_42) <= (_vector_spacing << 0x5))), function at exception vector 42 too large)
+
+.vector_43      0x9fc01760        0x0
+ *(.vector_43)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_43) <= (_vector_spacing << 0x5))), function at exception vector 43 too large)
+
+.vector_44      0x9fc01780        0x0
+ *(.vector_44)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_44) <= (_vector_spacing << 0x5))), function at exception vector 44 too large)
+
+.vector_45      0x9fc017a0        0x0
+ *(.vector_45)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_45) <= (_vector_spacing << 0x5))), function at exception vector 45 too large)
+
+.vector_46      0x9fc017c0        0x0
+ *(.vector_46)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_46) <= (_vector_spacing << 0x5))), function at exception vector 46 too large)
+
+.vector_47      0x9fc017e0        0x0
+ *(.vector_47)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_47) <= (_vector_spacing << 0x5))), function at exception vector 47 too large)
+
+.vector_48      0x9fc01800        0x0
+ *(.vector_48)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_48) <= (_vector_spacing << 0x5))), function at exception vector 48 too large)
+
+.vector_49      0x9fc01820        0x0
+ *(.vector_49)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_49) <= (_vector_spacing << 0x5))), function at exception vector 49 too large)
+
+.vector_50      0x9fc01840        0x0
+ *(.vector_50)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_50) <= (_vector_spacing << 0x5))), function at exception vector 50 too large)
+
+.vector_51      0x9fc01860        0x0
+ *(.vector_51)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_51) <= (_vector_spacing << 0x5))), function at exception vector 51 too large)
+
+.vector_52      0x9fc01880        0x0
+ *(.vector_52)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_52) <= (_vector_spacing << 0x5))), function at exception vector 52 too large)
+
+.vector_53      0x9fc018a0        0x0
+ *(.vector_53)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_53) <= (_vector_spacing << 0x5))), function at exception vector 53 too large)
+
+.vector_54      0x9fc018c0        0x0
+ *(.vector_54)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_54) <= (_vector_spacing << 0x5))), function at exception vector 54 too large)
+
+.vector_55      0x9fc018e0        0x0
+ *(.vector_55)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_55) <= (_vector_spacing << 0x5))), function at exception vector 55 too large)
+
+.vector_56      0x9fc01900        0x0
+ *(.vector_56)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_56) <= (_vector_spacing << 0x5))), function at exception vector 56 too large)
+
+.vector_57      0x9fc01920        0x0
+ *(.vector_57)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_57) <= (_vector_spacing << 0x5))), function at exception vector 57 too large)
+
+.vector_58      0x9fc01940        0x0
+ *(.vector_58)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_58) <= (_vector_spacing << 0x5))), function at exception vector 58 too large)
+
+.vector_59      0x9fc01960        0x0
+ *(.vector_59)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_59) <= (_vector_spacing << 0x5))), function at exception vector 59 too large)
+
+.vector_60      0x9fc01980        0x0
+ *(.vector_60)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_60) <= (_vector_spacing << 0x5))), function at exception vector 60 too large)
+
+.vector_61      0x9fc019a0        0x0
+ *(.vector_61)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_61) <= (_vector_spacing << 0x5))), function at exception vector 61 too large)
+
+.vector_62      0x9fc019c0        0x0
+ *(.vector_62)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_62) <= (_vector_spacing << 0x5))), function at exception vector 62 too large)
+
+.vector_63      0x9fc019e0        0x0
+ *(.vector_63)
+                0x00000001                ASSERT (((_vector_spacing == 0x0) || (SIZEOF (.vector_63) <= (_vector_spacing << 0x5))), function at exception vector 63 too large)
+
+.startup        0x9fc00490      0x1e0
+ *(.startup)
+ .startup       0x9fc00490      0x1e0 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+
+.text           0x9d000000    0x2178c
+                0x9d000000                _text_begin = .
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x9d000000       0x18 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+ .text          0x9d000018      0x89c Objects - GMAP PIC32 Demo\StaticText.o
+                0x9d000018                StCreate
+                0x9d000218                StTranslateMsg
+                0x9d000304                StDraw
+                0x9d0001b8                StSetText
+ .text          0x9d0008b4      0x848 Objects - GMAP PIC32 Demo\Window.o
+                0x9d000c38                WndDraw
+                0x9d000a58                WndSetText
+                0x9d0008b4                WndCreate
+                0x9d000ab8                WndTranslateMsg
+ .text          0x9d0010fc     0x11f4 Objects - GMAP PIC32 Demo\Button.o
+                0x9d0017c8                DrawButtonFocus
+                0x9d0013f4                BtnTranslateMsg
+                0x9d0012b0                BtnSetText
+                0x9d001330                BtnMsgDefault
+                0x9d001990                BtnDraw
+                0x9d0010fc                BtnCreate
+ .text          0x9d0022f0     0x6b10 Objects - GMAP PIC32 Demo\Chart.o
+                0x9d0028b4                word2xchar
+                0x9d00853c                FillSector
+                0x9d0082e0                ChSetDataSeries
+                0x9d0022f0                ChCreate
+                0x9d0025ec                ChTranslateMsg
+                0x9d00898c                DrawSector
+                0x9d0026d8                ChGetNextShowData
+                0x9d0081b8                ChRemoveDataSeries
+                0x9d002744                ChParseShowData
+                0x9d0083e0                ChSetSampleRange
+                0x9d0027c4                GetLongestNameLength
+                0x9d0080fc                ChFreeDataSeries
+                0x9d008454                ChSetValueRange
+                0x9d002b24                ChDraw
+                0x9d0029bc                GetColorShade
+                0x9d0084c8                ChSetPercentRange
+                0x9d007fdc                ChAddDataSeries
+ .text          0x9d008e00      0xa4c Objects - GMAP PIC32 Demo\CheckBox.o
+                0x9d008fa4                CbSetText
+                0x9d009004                CbMsgDefault
+                0x9d0090b4                CbTranslateMsg
+                0x9d008e00                CbCreate
+                0x9d009294                CbDraw
+ .text          0x9d00984c      0xba8 Objects - GMAP PIC32 Demo\EditBox.o
+                0x9d009d7c                EbMsgDefault
+                0x9d00984c                EbCreate
+                0x9d009afc                EbAddChar
+                0x9d009e40                EbDraw
+                0x9d009a30                EbSetText
+                0x9d009c08                EbTranslateMsg
+                0x9d009b9c                EbDeleteChar
+ .text          0x9d00a3f4     0x1358 Objects - GMAP PIC32 Demo\GOL.o
+                0x9d00a3f4                GOLCreateScheme
+                0x9d00a7ac                GOLDraw
+                0x9d00a9e0                GOLMsg
+                0x9d00a640                GOLDeleteObjectByID
+                0x9d00a454                GOLInit
+                0x9d00a490                GOLFree
+                0x9d00b168                GOLTwoTonePanelDrawTsk
+                0x9d00a520                GOLDeleteObject
+                0x9d00a89c                GOLRedrawRec
+                0x9d00aad4                GOLPanelDrawTsk
+                0x9d00a6b0                GOLFindObject
+                0x9d00a72c                GOLAddObject
+ .text          0x9d00b74c     0x18e4 Objects - GMAP PIC32 Demo\Grid.o
+                0x9d00ca64                GridMsgDefault
+                0x9d00ce28                GridTranslateMsg
+                0x9d00c610                GridFreeItems
+                0x9d00c8b0                GridSetCellState
+                0x9d00c764                GridClearCellState
+                0x9d00c97c                GridGetCell
+                0x9d00c834                GridSetFocus
+                0x9d00c678                GridSetCell
+                0x9d00b74c                GridCreate
+                0x9d00b988                GridDraw
+ .text          0x9d00d030      0x9a4 Objects - GMAP PIC32 Demo\GroupBox.o
+                0x9d00d304                GbDraw
+                0x9d00d030                GbCreate
+                0x9d00d1f4                GbTranslateMsg
+ .text          0x9d00d9d4     0x15bc Objects - GMAP PIC32 Demo\ListBox.o
+                0x9d00e128                LbGetFocusedItem
+                0x9d00def0                LbGetSel
+                0x9d00e398                LbMsgDefault
+                0x9d00dc3c                LbAddItem
+                0x9d00e040                LbSetFocusedItem
+                0x9d00df70                LbChangeSel
+                0x9d00e658                LbDraw
+                0x9d00e1d4                LbTranslateMsg
+                0x9d00d9d4                LbCreate
+                0x9d00de6c                LbDelItemsList
+                0x9d00dd9c                LbDelItem
+ .text          0x9d00ef90     0x1c14 Objects - GMAP PIC32 Demo\Meter.o
+                0x9d00f5bc                MtrDraw
+                0x9d00f1e8                MtrCalcDimensions
+                0x9d00f514                MtrTranslateMsg
+                0x9d00ef90                MtrCreate
+                0x9d00f498                MtrMsgDefault
+                0x9d00f3ec                MtrSetVal
+ .text          0x9d010ba4      0x6d8 Objects - GMAP PIC32 Demo\Picture.o
+                0x9d010d1c                PictTranslateMsg
+                0x9d010e08                PictDraw
+                0x9d010ba4                PictCreate
+ .text          0x9d01127c      0xb78 Objects - GMAP PIC32 Demo\RadioButton.o
+                0x9d0116fc                RbTranslateMsg
+                0x9d01127c                RbCreate
+                0x9d011550                RbGetCheck
+                0x9d011634                RbMsgDefault
+                0x9d0118bc                RbDraw
+                0x9d0115d4                RbSetText
+                0x9d01149c                RbSetCheck
+ .text          0x9d011df4     0x19ac Objects - GMAP PIC32 Demo\Slider.o
+                0x9d01257c                SldSetPos
+                0x9d012270                SldGetMinMaxPos
+                0x9d012374                SldSetRange
+                0x9d012050                SldGetWidth
+                0x9d012a38                SldTranslateMsg
+                0x9d0124c0                SldSetPage
+                0x9d012cc0                SldDraw
+                0x9d011fc0                SldSetThumbSize
+                0x9d012160                SldGetHeight
+                0x9d011df4                SldCreate
+                0x9d01271c                SldMsgDefault
+ .text          0x9d0137a0     0x4e04 Objects - GMAP PIC32 Demo\Primitive.o
+                0x9d016ec4                PutImage1BPPExt
+                0x9d016c54                PutImage16BPP
+                0x9d018390                GetCirclePoint
+                0x9d014a80                Bevel
+                0x9d015778                DrawPoly
+                0x9d015e5c                OutTextXY
+                0x9d017bdc                PutImage
+                0x9d0151e4                FillBevel
+                0x9d015dc0                OutText
+                0x9d017268                PutImage4BPPExt
+                0x9d015904                SetFont
+                0x9d017ed0                GetSineCosine
+                0x9d01790c                PutImage16BPPExt
+                0x9d016258                GetImageHeight
+                0x9d0161b4                GetImageWidth
+                0x9d013e50                ClearDevice
+                0x9d01760c                PutImage8BPPExt
+                0x9d013890                Line
+                0x9d013f0c                Arc
+                0x9d018118                DrawArc
+                0x9d016110                GetTextHeight
+                0x9d015eec                GetTextWidth
+                0x9d013ea8                InitGraph
+                0x9d0159c0                OutChar
+ .text          0x9d0185a4       0xbc Objects - GMAP PIC32 Demo\TimeDelay.o
+                0x9d0185f4                DelayMs
+                0x9d0185a4                Delay10us
+ .text          0x9d018660      0xc38 Objects - GMAP PIC32 Demo\SST25VF016.o
+                0x9d018660                SST25Init
+                0x9d018d64                SST25ReadArray
+                0x9d018858                SST25ReadByte
+                0x9d0186c0                SST25WriteByte
+                0x9d018c34                SST25WriteArray
+                0x9d018a94                SST25WriteEnable
+                0x9d018b4c                SST25IsWriteBusy
+                0x9d018f1c                SST25ChipErase
+                0x9d019130                SST25SectorErase
+                0x9d0189cc                SST25WriteWord
+                0x9d018ff4                SST25ResetWriteProtection
+                0x9d018a3c                SST25ReadWord
+ .text          0x9d019298      0x984 Objects - GMAP PIC32 Demo\TouchScreen.o
+                0x9d0195fc                TouchCalibration
+                0x9d019368                TouchGetMsg
+                0x9d019298                TouchInit
+                0x9d019560                TouchCheckForCalibration
+ .text          0x9d019c1c      0x298 Objects - GMAP PIC32 Demo\drv_spi.o
+                0x9d019e00                SPILock
+                0x9d019e78                SPIUnLock
+                0x9d019d20                SPIPut
+                0x9d019c1c                DRV_SPI_Initialize
+                0x9d019da0                SPIGet
+ .text          0x9d019eb4     0x11b8 Objects - GMAP PIC32 Demo\TouchScreenResistive.o
+                0x9d01a644                TouchLoadCalibration
+                0x9d01a440                TouchGetX
+                0x9d01a540                TouchGetRawY
+                0x9d01a4d4                TouchGetY
+                0x9d01a3d4                TouchHardwareInit
+                0x9d019eb4                TouchDetectPosition
+                0x9d01a6c8                TouchCalculateCalPoints
+                0x9d01a568                TouchStoreCalibration
+                0x9d01a38c                Touch_ADCInit
+                0x9d01a4ac                TouchGetRawX
+                0x9d01a948                TouchCalHWGetPoints
+ .text          0x9d01b06c      0xa1c Objects - GMAP PIC32 Demo\TicTacToe.o
+                0x9d01b104                InitializeBoard
+                0x9d01ba10                ExternalMemoryCallback
+                0x9d01b970                TickInit
+                0x9d01b0e0                GOLDrawCallback
+                0x9d01b8cc                _T3Interrupt
+                0x9d01b06c                main
+                0x9d01b464                Init_CPUClocks
+                0x9d01b0ac                GOLMsgCallback
+ .text          0x9d01ba88      0x6c4 Objects - GMAP PIC32 Demo\TCON_SSD1289.o
+                0x9d01bdd8                GfxTconInit
+                0x9d01ba88                GfxTconSetIO
+                0x9d01bc0c                GfxTconWriteByte
+                0x9d01bcd0                GfxTconWriteCommand
+ .text          0x9d01c14c     0x184c Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+                0x9d01cb38                GetPixel
+                0x9d01caa8                SetClip
+                0x9d01c4a8                DmaHandler1
+                0x9d01ca24                IsDeviceBusy
+                0x9d01ca48                SetClipRgn
+                0x9d01d328                PutImage1BPP
+                0x9d01c14c                ResetDevice
+                0x9d01cad8                _VirtToPhys
+                0x9d01ccec                Bar
+                0x9d01c790                PutPixel
+                0x9d01d548                PutImage4BPP
+                0x9d01d798                PutImage8BPP
+ .text          0x9d01d998      0x168 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(memcpy.o)
+                0x9d01d998                memcpy
+ .text          0x9d01db00       0xa8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(memset.o)
+                0x9d01db00                memset
+ .text.general_exception
+                0x9d01dba8       0xd0 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(general-exception.o)
+                0x9d01dba8                _general_exception_context
+ .text.exit     0x9d01dc78       0xa4 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+                0x9d01dc78                exit
+ .text.malloc   0x9d01dd1c      0x758 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+                0x9d01dd1c                malloc
+ .text.malloc_trim
+                0x9d01e474      0x114 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc_free.o)
+                0x9d01e474                malloc_trim
+ .text.free     0x9d01e588      0x248 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc_free.o)
+                0x9d01e588                free
+ .text._filbuf_simple
+                0x9d01e7d0       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+                0x9d01e7d0                _filbuf_simple
+ .text._fflush_simple
+                0x9d01e7f8       0x68 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+                0x9d01e7f8                _fflush_simple
+ .text._flsbuf_simple
+                0x9d01e860       0xe8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+                0x9d01e860                _flsbuf_simple
+ .text._fwrite_simple
+                0x9d01e948       0x84 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+                0x9d01e948                _fwrite_simple
+ .text._fsync_simple
+                0x9d01e9cc       0x34 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+                0x9d01e9cc                _fsync_simple
+ .text._weak_pthread_mutex_init
+                0x9d01ea00        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01ea00                _weak_pthread_mutex_init
+                0x9d01ea00                pthread_mutex_init
+ .text._weak_pthread_mutex_destroy
+                0x9d01ea08        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01ea08                _weak_pthread_mutex_destroy
+                0x9d01ea08                pthread_mutex_destroy
+ .text._weak_pthread_mutex_lock
+                0x9d01ea10        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01ea10                _weak_pthread_mutex_lock
+                0x9d01ea10                pthread_mutex_lock
+ .text._weak_pthread_mutex_trylock
+                0x9d01ea18        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01ea18                _weak_pthread_mutex_trylock
+                0x9d01ea18                pthread_mutex_trylock
+ .text._weak_pthread_mutex_unlock
+                0x9d01ea20        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01ea20                _weak_pthread_mutex_unlock
+                0x9d01ea20                pthread_mutex_unlock
+ .text._weak_pthread_mutex_setname_np
+                0x9d01ea28        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01ea28                pthread_mutex_setname_np
+                0x9d01ea28                _weak_pthread_mutex_setname_np
+ .text._weak_pthread_mutexattr_init
+                0x9d01ea30        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01ea30                _weak_pthread_mutexattr_init
+                0x9d01ea30                pthread_mutexattr_init
+ .text._weak_pthread_mutexattr_destroy
+                0x9d01ea38        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01ea38                pthread_mutexattr_destroy
+                0x9d01ea38                _weak_pthread_mutexattr_destroy
+ .text._weak_pthread_mutexattr_setname_np
+                0x9d01ea40        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01ea40                _weak_pthread_mutexattr_setname_np
+                0x9d01ea40                pthread_mutexattr_setname_np
+ .text._weak_pthread_mutexattr_settype_np
+                0x9d01ea48        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01ea48                _weak_pthread_mutexattr_settype_np
+                0x9d01ea48                pthread_mutexattr_settype_np
+ .text._weak_pthread_sysconf_np
+                0x9d01ea50        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01ea50                _weak_pthread_sysconf_np
+                0x9d01ea50                pthread_sysconf_np
+ .text._weak_pthread_sigdisable_np
+                0x9d01ea58        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01ea58                _weak_pthread_sigdisable_np
+                0x9d01ea58                pthread_sigdisable_np
+ .text._weak_pthread_sigrestore_np
+                0x9d01ea60        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01ea60                pthread_sigrestore_np
+                0x9d01ea60                _weak_pthread_sigrestore_np
+ .text._weak__pthread_cleanup_push
+                0x9d01ea68        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01ea68                _weak__pthread_cleanup_push
+                0x9d01ea68                _pthread_cleanup_push
+ .text._weak__pthread_cleanup_pop
+                0x9d01ea70        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01ea70                _pthread_cleanup_pop
+                0x9d01ea70                _weak__pthread_cleanup_pop
+ .text._weak__pthread_cleanup_push_defer
+                0x9d01ea78        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01ea78                _weak__pthread_cleanup_push_defer
+                0x9d01ea78                _pthread_cleanup_push_defer
+ .text._weak__pthread_cleanup_pop_restore
+                0x9d01ea80        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01ea80                _pthread_cleanup_pop_restore
+                0x9d01ea80                _weak__pthread_cleanup_pop_restore
+ .text._weak_pthread_once
+                0x9d01ea88       0x2c C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01ea88                _weak_pthread_once
+                0x9d01ea88                pthread_once
+                0x9d01ea88                _pthread_once
+ .text._weak_pthread_key_create
+                0x9d01eab4        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01eab4                pthread_key_create
+                0x9d01eab4                _weak_pthread_key_create
+ .text._weak_pthread_setspecific
+                0x9d01eabc        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01eabc                _weak_pthread_setspecific
+                0x9d01eabc                pthread_setspecific
+ .text._weak_pthread_getspecific
+                0x9d01eac4        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01eac4                pthread_getspecific
+                0x9d01eac4                _weak_pthread_getspecific
+ .text._weak__libc_private_storage
+                0x9d01eacc        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0x9d01eacc                _libc_private_storage
+                0x9d01eacc                _weak__libc_private_storage
+ .text.getpagesize
+                0x9d01ead4        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+                0x9d01ead4                getpagesize
+ .text._stub_sbd_memlayout
+                0x9d01eadc       0x2c C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+                0x9d01eadc                _stub_sbd_memlayout
+                0x9d01eadc                _sbd_memlayout
+ .text._sbrk_init
+                0x9d01eb08      0x168 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+                0x9d01eb08                _sbrk_init
+ .text._sbrk    0x9d01ec70       0xe8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+                0x9d01ec70                _sbrk
+ .text.sbrk     0x9d01ed58       0x5c C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+                0x9d01ed58                sbrk
+ .text._general_exception_handler
+                0x9d01edb4        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+                0x9d01edb4                _general_exception_handler
+ .text._bootstrap_exception_handler
+                0x9d01edbc        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+                0x9d01edbc                _bootstrap_exception_handler
+ .text._on_reset
+                0x9d01edc4        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+                0x9d01edc4                _on_reset
+ .text._on_bootstrap
+                0x9d01edcc        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+                0x9d01edcc                _on_bootstrap
+ .text          0x9d01edd4       0x18 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-nmi-handler.o)
+                0x9d01edd4                _nmi_handler
+ .text._mon_getc
+                0x9d01edec        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_getc.o)
+                0x9d01edec                _mon_getc
+ .text._mon_write
+                0x9d01edf4       0x4c C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_write.o)
+                0x9d01edf4                _mon_write
+ .text._exit    0x9d01ee40        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+                0x9d01ee40                _exit
+ .text._mon_putc
+                0x9d01ee48       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_putc.o)
+                0x9d01ee48                _mon_putc
+ .text          0x9d01ee70      0x1a0 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libm.a(cos32.o)
+                0x9d01ee70                cos
+                0x9d01ee70                dpcos
+ .text          0x9d01f010      0x198 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libm.a(sin32.o)
+                0x9d01f010                dpsin
+                0x9d01f010                sin
+ .text          0x9d01f1a8      0x1b4 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libm.a(reduct32.o)
+                0x9d01f1a8                reduct
+ .text          0x9d01f35c      0x5d4 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libm.a(func32.o)
+                0x9d01f530                exadd
+                0x9d01f464                exmul
+                0x9d01f35c                sigmax
+                0x9d01f6cc                exdiv
+                0x9d01f61c                exsub
+ .text          0x9d01f930     0x1128 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libm.a(dp32.o)
+                0x9d0209e0                fabs
+                0x9d0208a4                __eqdf2
+                0x9d0208a4                __gtdf2
+                0x9d01f930                dpsub
+                0x9d020538                __floatsidf
+                0x9d0208a4                __ltdf2
+                0x9d0205ac                ultodp
+                0x9d01fd5c                dpmul
+                0x9d0206a0                dptofp
+                0x9d020820                __fixunsdfsi
+                0x9d0208a4                dpcmp
+                0x9d0205fc                __extendsfdf2
+                0x9d01f938                __adddf3
+                0x9d020820                dptoul
+                0x9d020084                dpdiv
+                0x9d020538                litodp
+                0x9d020798                __fixdfsi
+                0x9d0208a4                __ledf2
+                0x9d0205fc                fptodp
+                0x9d0209c8                __negdf2
+                0x9d01f938                dpadd
+                0x9d020084                __divdf3
+                0x9d01fd5c                __muldf3
+                0x9d0206a0                __truncdfsf2
+                0x9d0208a4                __nedf2
+                0x9d020798                dptoli
+                0x9d0209fc                nan
+                0x9d0209e0                dpfabs
+                0x9d0208a4                __gedf2
+                0x9d0209fc                dpnan
+                0x9d01f930                __subdf3
+ .text          0x9d020a58      0x8ec C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libm.a(fp32.o)
+                0x9d020e84                __divsf3
+                0x9d0210b0                sitofp
+                0x9d021158                __fixsfsi
+                0x9d020e84                fpdiv
+                0x9d020a58                __subsf3
+                0x9d021158                fptoli
+                0x9d021244                __lesf2
+                0x9d0212d8                fabsf
+                0x9d021244                __nesf2
+                0x9d02110c                uitofp
+                0x9d021244                __gtsf2
+                0x9d0211d0                fptoui
+                0x9d0212d8                fpfabs
+                0x9d0210b0                __floatsisf
+                0x9d021158                fptosi
+                0x9d0212f8                fpnan
+                0x9d021244                __eqsf2
+                0x9d020a60                fpadd
+                0x9d0212e8                __negsf2
+                0x9d021244                __ltsf2
+                0x9d020a58                fpsub
+                0x9d021244                fpcmp
+                0x9d020ccc                __mulsf3
+                0x9d021244                __gesf2
+                0x9d0212f8                nanf
+                0x9d0210b0                litofp
+                0x9d020ccc                fpmul
+                0x9d0211d0                __fixunssfsi
+                0x9d020a60                __addsf3
+                0x9d0211d0                fptoul
+                0x9d02110c                ultofp
+ .text.CheKseg0CacheOff
+                0x9d021344       0x18 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(pcache.o)
+                0x9d021344                CheKseg0CacheOff
+ .text.CheKseg0CacheOn
+                0x9d02135c       0x18 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(pcache.o)
+                0x9d02135c                CheKseg0CacheOn
+ .text.INTDisableInterrupts
+                0x9d021374        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_disable_interrupts_lib.o)
+                0x9d021374                INTDisableInterrupts
+ .text.INTRestoreInterrupts
+                0x9d02137c       0x1c C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_restore_interrupts_lib.o)
+                0x9d02137c                INTRestoreInterrupts
+ .text.INTEnableSystemMultiVectoredInt
+                0x9d021398       0x34 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_mv_int_lib.o)
+                0x9d021398                INTEnableSystemMultiVectoredInt
+ .text.INTClearFlag
+                0x9d0213cc       0x2c C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_tbl_lib.o)
+                0x9d0213cc                INTClearFlag
+ .text.INTSetFlag
+                0x9d0213f8       0x2c C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_tbl_lib.o)
+                0x9d0213f8                INTSetFlag
+ .text.INTGetFlag
+                0x9d021424       0x2c C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_tbl_lib.o)
+                0x9d021424                INTGetFlag
+ .text.INTEnable
+                0x9d021450       0x44 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_tbl_lib.o)
+                0x9d021450                INTEnable
+ .text.INTGetEnable
+                0x9d021494       0x2c C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_tbl_lib.o)
+                0x9d021494                INTGetEnable
+ .text.INTSetVectorPriority
+                0x9d0214c0       0x40 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_tbl_lib.o)
+                0x9d0214c0                INTSetVectorPriority
+ .text.INTGetVectorPriority
+                0x9d021500       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_tbl_lib.o)
+                0x9d021500                INTGetVectorPriority
+ .text.INTSetVectorSubPriority
+                0x9d021530       0x40 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_tbl_lib.o)
+                0x9d021530                INTSetVectorSubPriority
+ .text.INTGetVectorSubPriority
+                0x9d021570       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_tbl_lib.o)
+                0x9d021570                INTGetVectorSubPriority
+ .text.DmaChnSetEvEnableFlags
+                0x9d0215a0       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_ev_enable_flags_lib.o)
+                0x9d0215a0                DmaChnSetEvEnableFlags
+ .text.DmaChnOpen
+                0x9d0215c8       0xf4 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_open_lib.o)
+                0x9d0215c8                DmaChnOpen
+ .text.DmaChnEnable
+                0x9d0216bc       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_enable_lib.o)
+                0x9d0216bc                DmaChnEnable
+ .text.DmaChnWriteEventControlFlags
+                0x9d0216e4       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_write_event_control_flags_lib.o)
+                0x9d0216e4                DmaChnWriteEventControlFlags
+ .text.DmaChnSetTxfer
+                0x9d021714       0x70 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_txfer_lib.o)
+                0x9d021714                DmaChnSetTxfer
+ .text.INTEnableInterrupts
+                0x9d021784        0x8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_interrupts_lib.o)
+                0x9d021784                INTEnableInterrupts
+ *(.text.*personality*)
+ *(.gnu.warning)
+ *(.mips16.fn.*)
+ *(.mips16.call.*)
+                0x9d02178c                _text_end = .
+
+.rodata         0x9d021790     0x3138
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x9d021790       0x14 Objects - GMAP PIC32 Demo\StaticText.o
+ .rodata        0x9d0217a4       0x1c Objects - GMAP PIC32 Demo\Window.o
+ .rodata        0x9d0217c0       0x14 Objects - GMAP PIC32 Demo\Button.o
+ .rodata        0x9d0217d4       0xfc Objects - GMAP PIC32 Demo\Chart.o
+                0x9d0217d4                ChartVarClr
+ .rodata        0x9d0218d0       0x1c Objects - GMAP PIC32 Demo\CheckBox.o
+ .rodata        0x9d0218ec       0x18 Objects - GMAP PIC32 Demo\EditBox.o
+ .rodata        0x9d021904       0x44 Objects - GMAP PIC32 Demo\GOL.o
+ .rodata        0x9d021948     0x14b4 Objects - GMAP PIC32 Demo\GOLFontDefault.o
+                0x9d021950                __GOLFontDefault
+                0x9d021948                GOLFontDefault
+ .rodata        0x9d022dfc       0x14 Objects - GMAP PIC32 Demo\Grid.o
+ .rodata        0x9d022e10       0x38 Objects - GMAP PIC32 Demo\GroupBox.o
+ .rodata        0x9d022e48       0x2c Objects - GMAP PIC32 Demo\ListBox.o
+ *fill*         0x9d022e74        0x4 00
+ .rodata        0x9d022e78       0x68 Objects - GMAP PIC32 Demo\Meter.o
+ .rodata        0x9d022ee0       0x1c Objects - GMAP PIC32 Demo\Picture.o
+ .rodata        0x9d022efc       0x20 Objects - GMAP PIC32 Demo\RadioButton.o
+ .rodata        0x9d022f1c       0x28 Objects - GMAP PIC32 Demo\Slider.o
+ .rodata        0x9d022f44      0x120 Objects - GMAP PIC32 Demo\Primitive.o
+                0x9d022f44                _CosineTable
+ .rodata        0x9d023064      0x158 Objects - GMAP PIC32 Demo\TouchScreen.o
+ .rodata        0x9d0231bc       0x18 Objects - GMAP PIC32 Demo\GOLSchemeDefault.o
+                0x9d0231bc                GOLSchemeDefault
+ .rodata        0x9d0231d4       0x88 Objects - GMAP PIC32 Demo\TouchScreenResistive.o
+                0x9d0231d4                mchpTouchScreenVersion
+ .rodata        0x9d02325c       0x10 Objects - GMAP PIC32 Demo\TicTacToe.o
+ .rodata        0x9d02326c      0xe70 Objects - GMAP PIC32 Demo\TTT_Images.o
+                0x9d0239ac                __TTTO
+                0x9d0239a4                TTTO
+                0x9d023274                __TTTX
+                0x9d02326c                TTTX
+ .rodata        0x9d0240dc       0x14 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobdata.o)
+                0x9d0240dc                _io_funcs
+ .rodata        0x9d0240f0      0x7d4 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_tbl_lib.o)
+                0x9d0243a8                __IntSrcTbl
+                0x9d0240f0                __IntVectorTbl
+ .rodata        0x9d0248c4        0x4 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_reg_map_tbl_lib.o)
+                0x9d0248c4                _DmaMapTbl
+ *(.rodata1)
+                0x9d0248c8                . = ALIGN (0x4)
+
+.sdata2         0x9d0248c8        0x0
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x9d0248c8                . = ALIGN (0x4)
+
+.sbss2          0x9d0248c8        0x0
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+                0x9d0248c8                . = ALIGN (0x4)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.dbg_data       0xa0000000        0x0
+                0xa0000000                . = (. + DEFINED (_DEBUGGER)?0x200:0x0)
+
+.data           0xa0000000      0x5ac load address 0x9d0248c8
+                0xa0000000                _data_begin = .
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0xa0000000       0x18 Objects - GMAP PIC32 Demo\Chart.o
+ .data          0xa0000018       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+                0xa0000018                __exfun_mx
+ .data          0xa0000038      0x410 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+                0xa0000040                malloc_av_
+                0xa000003c                malloc_trim_threshold
+                0xa0000038                malloc_sbrk_base
+ .data          0xa0000448       0xd4 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobdata.o)
+ .data          0xa000051c       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .data          0xa000053c       0x70 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libm.a(sincos32.o)
+                0xa000053c                sincon
+                0xa0000574                coscon
+ *(.gnu.linkonce.d.*personality*)
+ *(.data1)
+                0x9d0248c8                _data_image_begin = LOADADDR (.data)
+
+.eh_frame
+ *(.eh_frame)
+                0xa00085a0                _gp = (ALIGN (0x10) + 0x7ff0)
+
+.got
+ *(.got.plt)
+ *(.got)
+
+.sdata          0xa00005ac       0x28 load address 0x9d024e74
+                0xa00005ac                _sdata_begin = .
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0xa00005ac        0x8 Objects - GMAP PIC32 Demo\Chart.o
+ .sdata         0xa00005b4        0x4 Objects - GMAP PIC32 Demo\Meter.o
+ .sdata         0xa00005b8        0x1 Objects - GMAP PIC32 Demo\Primitive.o
+ *fill*         0xa00005b9        0x1 00
+ .sdata         0xa00005ba        0x4 Objects - GMAP PIC32 Demo\TouchScreen.o
+ .sdata         0xa00005be        0xc Objects - GMAP PIC32 Demo\TouchScreenResistive.o
+                0xa00005c6                _trC
+                0xa00005c0                adcY
+                0xa00005c4                _trB
+                0xa00005c8                _trD
+                0xa00005c2                _trA
+                0xa00005be                adcX
+ .sdata         0xa00005ca        0x4 Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+                0xa00005cc                HFrontPorch
+                0xa00005ca                HBackPorch
+ *fill*         0xa00005ce        0x2 00
+ .sdata         0xa00005d0        0x4 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobdata.o)
+                0xa00005d0                _libc_data
+                0xa00005d4                _sdata_end = .
+
+.lit8
+ *(.lit8)
+
+.lit4
+ *(.lit4)
+                0xa00005d4                . = ALIGN (0x4)
+                0xa00005d4                _data_end = .
+                0xa00005d4                _bss_begin = .
+
+.sbss           0xa00005d4      0x20c
+                0xa00005d4                _sbss_begin = .
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0xa00005d4        0xc Objects - GMAP PIC32 Demo\StaticText.o
+ .sbss          0xa00005e0        0x4 Objects - GMAP PIC32 Demo\Window.o
+ .sbss          0xa00005e4        0xc Objects - GMAP PIC32 Demo\Button.o
+ .sbss          0xa00005f0       0x74 Objects - GMAP PIC32 Demo\Chart.o
+ .sbss          0xa0000664        0x4 Objects - GMAP PIC32 Demo\CheckBox.o
+ .sbss          0xa0000668        0xc Objects - GMAP PIC32 Demo\EditBox.o
+ .sbss          0xa0000674       0x24 Objects - GMAP PIC32 Demo\GOL.o
+                0xa0000674                _pGolObjects
+                0xa0000678                _pDefaultGolScheme
+                0xa0000684                _pRpnlBitmap
+                0xa000067c                _pObjectFocused
+ .sbss          0xa0000698        0xc Objects - GMAP PIC32 Demo\GroupBox.o
+ .sbss          0xa00006a4        0xc Objects - GMAP PIC32 Demo\ListBox.o
+ .sbss          0xa00006b0       0x20 Objects - GMAP PIC32 Demo\Meter.o
+ .sbss          0xa00006d0        0xc Objects - GMAP PIC32 Demo\Picture.o
+ .sbss          0xa00006dc       0x14 Objects - GMAP PIC32 Demo\RadioButton.o
+                0xa00006dc                _pListButtons
+ .sbss          0xa00006f0       0x1c Objects - GMAP PIC32 Demo\Slider.o
+ .sbss          0xa000070c       0x3c Objects - GMAP PIC32 Demo\Primitive.o
+ .sbss          0xa0000748        0xc Objects - GMAP PIC32 Demo\TouchScreen.o
+                0xa0000748                pCalDataRead
+                0xa0000750                pCalDataSectorErase
+                0xa000074c                pCalDataWrite
+ .sbss          0xa0000754        0xc Objects - GMAP PIC32 Demo\TouchScreenResistive.o
+                0xa0000758                state
+                0xa0000754                adcPot
+ .sbss          0xa0000760        0x4 Objects - GMAP PIC32 Demo\TicTacToe.o
+                0xa0000760                tick
+ .sbss          0xa0000764       0x3c Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+                0xa0000764                DrawCount
+                0xa0000765                overflowcount
+ .sbss          0xa00007a0        0x4 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(errno.o)
+                0xa00007a0                errno
+ *(.scommon)
+ .scommon       0xa00007a4       0x12 Objects - GMAP PIC32 Demo\GOL.o
+                0xa00007a4                _rpnlX2
+                0xa00007a6                _rpnlR
+                0xa00007a8                _rpnlX1
+                0xa00007aa                _rpnlEmbossDkColor
+                0xa00007ac                _rpnlEmbossSize
+                0xa00007ae                _rpnlY2
+                0xa00007b0                _rpnlEmbossLtColor
+                0xa00007b2                _rpnlFaceColor
+                0xa00007b4                _rpnlY1
+ *fill*         0xa00007b6        0x2 00
+ .scommon       0xa00007b8       0x17 Objects - GMAP PIC32 Demo\Primitive.o
+                0xa00007b8                _cursorY
+                0xa00007ba                _fontOrientation
+                0xa00007bc                _fontFirstChar
+                0xa00007be                _fontHeight
+                0xa00007c0                _bevelDrawType
+                0xa00007c2                _cursorX
+                0xa00007c4                _fontLastChar
+                0xa00007c8                _font
+                0xa00007cc                _lineType
+                0xa00007ce                _lineThickness
+ *fill*         0xa00007cf        0x1 00
+ .scommon       0xa00007d0        0x4 Objects - GMAP PIC32 Demo\TicTacToe.o
+                0xa00007d0                tickscaler
+ .scommon       0xa00007d4        0xc Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+                0xa00007d4                _clipRgn
+                0xa00007d6                _clipRight
+                0xa00007d8                _clipBottom
+                0xa00007da                _clipTop
+                0xa00007dc                _color
+                0xa00007de                _clipLeft
+                0xa00007e0                _sbss_end = .
+
+.bss            0xa00007e0      0x310
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0xa00007e0        0xc Objects - GMAP PIC32 Demo\Meter.o
+ .bss           0xa00007ec       0x10 Objects - GMAP PIC32 Demo\SST25VF016.o
+ .bss           0xa00007fc       0x10 Objects - GMAP PIC32 Demo\drv_spi.o
+ .bss           0xa000080c       0x34 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+                0xa0000834                malloc_max_total_mem
+                0xa000083c                malloc_top_pad
+                0xa0000838                malloc_max_sbrked_mem
+                0xa000080c                malloc_current_mallinfo
+ .bss           0xa0000840       0x88 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobdata.o)
+ .bss           0xa00008c8       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+ .bss           0xa00008e8        0x4 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                0xa00008e8                __isthreaded
+ .bss           0xa00008ec       0x24 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+                0xa00008f0                _minbrk
+                0xa00008ec                _maxbrk
+ *(COMMON)
+ COMMON         0xa0000910      0x1e0 Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+                0xa0000910                GraphicsFrame
+                0xa0000af0                . = ALIGN (0x4)
+                0xa0000af0                . = ALIGN (0x4)
+                0xa0000af0                _end = .
+                0xa0000af0                _bss_end = .
+
+.heap           0xa0000af0      0xbb8
+                0xa0000af0                _heap = .
+                0xa00016a8                . = (. + _min_heap_size)
+ *fill*         0xa0000af0      0xbb8 00
+
+.stack          0xa00016a8      0xa28
+                0xa00016a8                _splim = .
+                0xa00016a8                _SPLIM = .
+                0xa00020d0                . = (. + _min_stack_size)
+ *fill*         0xa00016a8      0xa28 00
+
+.ramfunc        0xa0002800        0x0 load address 0x9d024e9c
+                0xa0002800                _ramfunc_begin = .
+ *(.ramfunc .ramfunc.*)
+                0xa0002800                . = ALIGN (0x4)
+                0xa0002800                _ramfunc_end = .
+                0x9d024e9c                _ramfunc_image_begin = LOADADDR (.ramfunc)
+                0x00000000                _ramfunc_length = SIZEOF (.ramfunc)
+                0x00002800                _bmxdkpba_address = (_ramfunc_begin - 0xa0000000)
+                0x00020000                _bmxdudba_address = 0x20000
+                0x00020000                _bmxdupba_address = 0x20000
+                0xa0020000                _stack = (_ramfunc_length > 0x0)?(_ramfunc_begin - 0x4):0xa0020000
+                0x00000001                ASSERT (((_min_stack_size + _min_heap_size) <= (_stack - _heap)), Not enough space to allocate both stack and heap.  Reduce heap and/or stack size.)
+
+.pdr            0x00000000     0x2160
+ *(.pdr)
+ .pdr           0x00000000       0xa0 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+ .pdr           0x000000a0       0x80 Objects - GMAP PIC32 Demo\StaticText.o
+ .pdr           0x00000120       0x80 Objects - GMAP PIC32 Demo\Window.o
+ .pdr           0x000001a0       0xc0 Objects - GMAP PIC32 Demo\Button.o
+ .pdr           0x00000260      0x220 Objects - GMAP PIC32 Demo\Chart.o
+ .pdr           0x00000480       0xa0 Objects - GMAP PIC32 Demo\CheckBox.o
+ .pdr           0x00000520       0xe0 Objects - GMAP PIC32 Demo\EditBox.o
+ .pdr           0x00000600      0x180 Objects - GMAP PIC32 Demo\GOL.o
+ .pdr           0x00000780      0x140 Objects - GMAP PIC32 Demo\Grid.o
+ .pdr           0x000008c0       0x60 Objects - GMAP PIC32 Demo\GroupBox.o
+ .pdr           0x00000920      0x160 Objects - GMAP PIC32 Demo\ListBox.o
+ .pdr           0x00000a80       0xc0 Objects - GMAP PIC32 Demo\Meter.o
+ .pdr           0x00000b40       0x60 Objects - GMAP PIC32 Demo\Picture.o
+ .pdr           0x00000ba0       0xe0 Objects - GMAP PIC32 Demo\RadioButton.o
+ .pdr           0x00000c80      0x160 Objects - GMAP PIC32 Demo\Slider.o
+ .pdr           0x00000de0      0x380 Objects - GMAP PIC32 Demo\Primitive.o
+ .pdr           0x00001160       0x40 Objects - GMAP PIC32 Demo\TimeDelay.o
+ .pdr           0x000011a0      0x180 Objects - GMAP PIC32 Demo\SST25VF016.o
+ .pdr           0x00001320       0x80 Objects - GMAP PIC32 Demo\TouchScreen.o
+ .pdr           0x000013a0       0xa0 Objects - GMAP PIC32 Demo\drv_spi.o
+ .pdr           0x00001440      0x160 Objects - GMAP PIC32 Demo\TouchScreenResistive.o
+ .pdr           0x000015a0      0x120 Objects - GMAP PIC32 Demo\TicTacToe.o
+ .pdr           0x000016c0       0x80 Objects - GMAP PIC32 Demo\TCON_SSD1289.o
+ .pdr           0x00001740      0x1a0 Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+ .pdr           0x000018e0       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(memcpy.o)
+ .pdr           0x00001900       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(memset.o)
+ .pdr           0x00001920       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(general-exception.o)
+ .pdr           0x00001940       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .pdr           0x00001960       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+ .pdr           0x00001980       0x40 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc_free.o)
+ .pdr           0x000019c0       0xa0 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+ .pdr           0x00001a60      0x2c0 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .pdr           0x00001d20       0xa0 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .pdr           0x00001dc0       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+ .pdr           0x00001de0       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .pdr           0x00001e00       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .pdr           0x00001e20       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .pdr           0x00001e40       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-nmi-handler.o)
+ .pdr           0x00001e60       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_getc.o)
+ .pdr           0x00001e80       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_write.o)
+ .pdr           0x00001ea0       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .pdr           0x00001ec0       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_putc.o)
+ .pdr           0x00001ee0       0x40 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(pcache.o)
+ .pdr           0x00001f20       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_disable_interrupts_lib.o)
+ .pdr           0x00001f40       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_restore_interrupts_lib.o)
+ .pdr           0x00001f60       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_mv_int_lib.o)
+ .pdr           0x00001f80      0x120 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_tbl_lib.o)
+ .pdr           0x000020a0       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_ev_enable_flags_lib.o)
+ .pdr           0x000020c0       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_open_lib.o)
+ .pdr           0x000020e0       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_enable_lib.o)
+ .pdr           0x00002100       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_write_event_control_flags_lib.o)
+ .pdr           0x00002120       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_txfer_lib.o)
+ .pdr           0x00002140       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_interrupts_lib.o)
+
+.reginfo        0x00000000       0x18
+ *(.reginfo)
+ .reginfo       0x00000000       0x18 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib/crt0.o
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000     0x1361
+ *(.comment)
+ .comment       0x00000000       0x50 Objects - GMAP PIC32 Demo\StaticText.o
+ .comment       0x00000050       0x50 Objects - GMAP PIC32 Demo\Window.o
+ .comment       0x000000a0       0x50 Objects - GMAP PIC32 Demo\Button.o
+ .comment       0x000000f0       0x50 Objects - GMAP PIC32 Demo\Chart.o
+ .comment       0x00000140       0x50 Objects - GMAP PIC32 Demo\CheckBox.o
+ .comment       0x00000190       0x50 Objects - GMAP PIC32 Demo\EditBox.o
+ .comment       0x000001e0       0x50 Objects - GMAP PIC32 Demo\GOL.o
+ .comment       0x00000230       0x50 Objects - GMAP PIC32 Demo\GOLFontDefault.o
+ .comment       0x00000280       0x50 Objects - GMAP PIC32 Demo\Grid.o
+ .comment       0x000002d0       0x50 Objects - GMAP PIC32 Demo\GroupBox.o
+ .comment       0x00000320       0x50 Objects - GMAP PIC32 Demo\ListBox.o
+ .comment       0x00000370       0x50 Objects - GMAP PIC32 Demo\Meter.o
+ .comment       0x000003c0       0x50 Objects - GMAP PIC32 Demo\Picture.o
+ .comment       0x00000410       0x50 Objects - GMAP PIC32 Demo\RadioButton.o
+ .comment       0x00000460       0x50 Objects - GMAP PIC32 Demo\Slider.o
+ .comment       0x000004b0       0x50 Objects - GMAP PIC32 Demo\Primitive.o
+ .comment       0x00000500       0x50 Objects - GMAP PIC32 Demo\TimeDelay.o
+ .comment       0x00000550       0x50 Objects - GMAP PIC32 Demo\SST25VF016.o
+ .comment       0x000005a0       0x50 Objects - GMAP PIC32 Demo\TouchScreen.o
+ .comment       0x000005f0       0x50 Objects - GMAP PIC32 Demo\SSD1926.o
+ .comment       0x00000640       0x50 Objects - GMAP PIC32 Demo\GOLSchemeDefault.o
+ .comment       0x00000690       0x50 Objects - GMAP PIC32 Demo\drv_spi.o
+ .comment       0x000006e0       0x50 Objects - GMAP PIC32 Demo\TouchScreenResistive.o
+ .comment       0x00000730       0x50 Objects - GMAP PIC32 Demo\TicTacToe.o
+ .comment       0x00000780       0x50 Objects - GMAP PIC32 Demo\TTT_Images.o
+ .comment       0x000007d0       0x50 Objects - GMAP PIC32 Demo\TCON_SSD1289.o
+ .comment       0x00000820       0x50 Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+ .comment       0x00000870       0x56 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(memset.o)
+ .comment       0x000008c6       0x9d C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .comment       0x00000963       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+ .comment       0x000009b3       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc_free.o)
+ .comment       0x00000a03       0x9e C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(errno.o)
+ .comment       0x00000aa1       0xa3 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobdata.o)
+ .comment       0x00000b44       0xa4 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+ .comment       0x00000be8       0x9e C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .comment       0x00000c86       0x9b C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .comment       0x00000d21       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+ .comment       0x00000d71       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .comment       0x00000dc1       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .comment       0x00000e11       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .comment       0x00000e61       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_getc.o)
+ .comment       0x00000eb1       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_write.o)
+ .comment       0x00000f01       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .comment       0x00000f51       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_putc.o)
+ .comment       0x00000fa1       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(pcache.o)
+ .comment       0x00000ff1       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_disable_interrupts_lib.o)
+ .comment       0x00001041       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_restore_interrupts_lib.o)
+ .comment       0x00001091       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_mv_int_lib.o)
+ .comment       0x000010e1       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_tbl_lib.o)
+ .comment       0x00001131       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_ev_enable_flags_lib.o)
+ .comment       0x00001181       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_open_lib.o)
+ .comment       0x000011d1       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_enable_lib.o)
+ .comment       0x00001221       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_write_event_control_flags_lib.o)
+ .comment       0x00001271       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_txfer_lib.o)
+ .comment       0x000012c1       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_reg_map_tbl_lib.o)
+ .comment       0x00001311       0x50 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_interrupts_lib.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x7e0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 Objects - GMAP PIC32 Demo\StaticText.o
+ .debug_aranges
+                0x00000020       0x20 Objects - GMAP PIC32 Demo\Window.o
+ .debug_aranges
+                0x00000040       0x20 Objects - GMAP PIC32 Demo\Button.o
+ .debug_aranges
+                0x00000060       0x20 Objects - GMAP PIC32 Demo\Chart.o
+ .debug_aranges
+                0x00000080       0x20 Objects - GMAP PIC32 Demo\CheckBox.o
+ .debug_aranges
+                0x000000a0       0x20 Objects - GMAP PIC32 Demo\EditBox.o
+ .debug_aranges
+                0x000000c0       0x20 Objects - GMAP PIC32 Demo\GOL.o
+ .debug_aranges
+                0x000000e0       0x20 Objects - GMAP PIC32 Demo\Grid.o
+ .debug_aranges
+                0x00000100       0x20 Objects - GMAP PIC32 Demo\GroupBox.o
+ .debug_aranges
+                0x00000120       0x20 Objects - GMAP PIC32 Demo\ListBox.o
+ .debug_aranges
+                0x00000140       0x20 Objects - GMAP PIC32 Demo\Meter.o
+ .debug_aranges
+                0x00000160       0x20 Objects - GMAP PIC32 Demo\Picture.o
+ .debug_aranges
+                0x00000180       0x20 Objects - GMAP PIC32 Demo\RadioButton.o
+ .debug_aranges
+                0x000001a0       0x20 Objects - GMAP PIC32 Demo\Slider.o
+ .debug_aranges
+                0x000001c0       0x20 Objects - GMAP PIC32 Demo\Primitive.o
+ .debug_aranges
+                0x000001e0       0x20 Objects - GMAP PIC32 Demo\SST25VF016.o
+ .debug_aranges
+                0x00000200       0x20 Objects - GMAP PIC32 Demo\TouchScreen.o
+ .debug_aranges
+                0x00000220       0x20 Objects - GMAP PIC32 Demo\drv_spi.o
+ .debug_aranges
+                0x00000240       0x20 Objects - GMAP PIC32 Demo\TouchScreenResistive.o
+ .debug_aranges
+                0x00000260       0x20 Objects - GMAP PIC32 Demo\TicTacToe.o
+ .debug_aranges
+                0x00000280       0x20 Objects - GMAP PIC32 Demo\TCON_SSD1289.o
+ .debug_aranges
+                0x000002a0       0x20 Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+ .debug_aranges
+                0x000002c0       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .debug_aranges
+                0x000002e8       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+ .debug_aranges
+                0x00000310       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc_free.o)
+ .debug_aranges
+                0x00000340       0x48 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+ .debug_aranges
+                0x00000388       0xd0 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .debug_aranges
+                0x00000458       0x48 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .debug_aranges
+                0x000004a0       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+ .debug_aranges
+                0x000004c8       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .debug_aranges
+                0x000004f0       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .debug_aranges
+                0x00000518       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .debug_aranges
+                0x00000540       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_getc.o)
+ .debug_aranges
+                0x00000568       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_write.o)
+ .debug_aranges
+                0x00000590       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .debug_aranges
+                0x000005b8       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_putc.o)
+ .debug_aranges
+                0x000005e0       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(pcache.o)
+ .debug_aranges
+                0x00000610       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_disable_interrupts_lib.o)
+ .debug_aranges
+                0x00000638       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_restore_interrupts_lib.o)
+ .debug_aranges
+                0x00000660       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_mv_int_lib.o)
+ .debug_aranges
+                0x00000688       0x68 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_tbl_lib.o)
+ .debug_aranges
+                0x000006f0       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_ev_enable_flags_lib.o)
+ .debug_aranges
+                0x00000718       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_open_lib.o)
+ .debug_aranges
+                0x00000740       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_enable_lib.o)
+ .debug_aranges
+                0x00000768       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_write_event_control_flags_lib.o)
+ .debug_aranges
+                0x00000790       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_txfer_lib.o)
+ .debug_aranges
+                0x000007b8       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_interrupts_lib.o)
+
+.debug_pubnames
+                0x00000000     0x196c
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x4b Objects - GMAP PIC32 Demo\StaticText.o
+ .debug_pubnames
+                0x0000004b       0x4f Objects - GMAP PIC32 Demo\Window.o
+ .debug_pubnames
+                0x0000009a       0x75 Objects - GMAP PIC32 Demo\Button.o
+ .debug_pubnames
+                0x0000010f      0x162 Objects - GMAP PIC32 Demo\Chart.o
+ .debug_pubnames
+                0x00000271       0x5c Objects - GMAP PIC32 Demo\CheckBox.o
+ .debug_pubnames
+                0x000002cd       0x7b Objects - GMAP PIC32 Demo\EditBox.o
+ .debug_pubnames
+                0x00000348      0x1c1 Objects - GMAP PIC32 Demo\GOL.o
+ .debug_pubnames
+                0x00000509       0x3a Objects - GMAP PIC32 Demo\GOLFontDefault.o
+ .debug_pubnames
+                0x00000543       0xc5 Objects - GMAP PIC32 Demo\Grid.o
+ .debug_pubnames
+                0x00000608       0x3d Objects - GMAP PIC32 Demo\GroupBox.o
+ .debug_pubnames
+                0x00000645       0xc4 Objects - GMAP PIC32 Demo\ListBox.o
+ .debug_pubnames
+                0x00000709       0x76 Objects - GMAP PIC32 Demo\Meter.o
+ .debug_pubnames
+                0x0000077f       0x43 Objects - GMAP PIC32 Demo\Picture.o
+ .debug_pubnames
+                0x000007c2       0x8c Objects - GMAP PIC32 Demo\RadioButton.o
+ .debug_pubnames
+                0x0000084e       0xc8 Objects - GMAP PIC32 Demo\Slider.o
+ .debug_pubnames
+                0x00000916      0x26f Objects - GMAP PIC32 Demo\Primitive.o
+ .debug_pubnames
+                0x00000b85      0x101 Objects - GMAP PIC32 Demo\SST25VF016.o
+ .debug_pubnames
+                0x00000c86       0x9d Objects - GMAP PIC32 Demo\TouchScreen.o
+ .debug_pubnames
+                0x00000d23       0x27 Objects - GMAP PIC32 Demo\GOLSchemeDefault.o
+ .debug_pubnames
+                0x00000d4a       0x59 Objects - GMAP PIC32 Demo\drv_spi.o
+ .debug_pubnames
+                0x00000da3      0x15d Objects - GMAP PIC32 Demo\TouchScreenResistive.o
+ .debug_pubnames
+                0x00000f00       0xba Objects - GMAP PIC32 Demo\TicTacToe.o
+ .debug_pubnames
+                0x00000fba       0x3a Objects - GMAP PIC32 Demo\TTT_Images.o
+ .debug_pubnames
+                0x00000ff4       0x60 Objects - GMAP PIC32 Demo\TCON_SSD1289.o
+ .debug_pubnames
+                0x00001054      0x166 Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+ .debug_pubnames
+                0x000011ba       0x1b C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .debug_pubnames
+                0x000011d5       0x1d C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+ .debug_pubnames
+                0x000011f2       0x2b C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc_free.o)
+ .debug_pubnames
+                0x0000121d       0x70 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+ .debug_pubnames
+                0x0000128d      0x2da C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .debug_pubnames
+                0x00001567       0x5c C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .debug_pubnames
+                0x000015c3       0x31 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+ .debug_pubnames
+                0x000015f4       0x33 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .debug_pubnames
+                0x00001627       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .debug_pubnames
+                0x00001647       0x24 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .debug_pubnames
+                0x0000166b       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_getc.o)
+ .debug_pubnames
+                0x0000168b       0x21 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_write.o)
+ .debug_pubnames
+                0x000016ac       0x1c C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .debug_pubnames
+                0x000016c8       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_putc.o)
+ .debug_pubnames
+                0x000016e8       0x3b C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(pcache.o)
+ .debug_pubnames
+                0x00001723       0x2b C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_disable_interrupts_lib.o)
+ .debug_pubnames
+                0x0000174e       0x2b C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_restore_interrupts_lib.o)
+ .debug_pubnames
+                0x00001779       0x36 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_mv_int_lib.o)
+ .debug_pubnames
+                0x000017af       0xca C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_tbl_lib.o)
+ .debug_pubnames
+                0x00001879       0x2d C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_ev_enable_flags_lib.o)
+ .debug_pubnames
+                0x000018a6       0x21 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_open_lib.o)
+ .debug_pubnames
+                0x000018c7       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_enable_lib.o)
+ .debug_pubnames
+                0x000018ea       0x33 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_write_event_control_flags_lib.o)
+ .debug_pubnames
+                0x0000191d       0x25 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_txfer_lib.o)
+ .debug_pubnames
+                0x00001942       0x2a C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_interrupts_lib.o)
+
+.debug_info     0x00000000    0x1bdf0
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0xefe Objects - GMAP PIC32 Demo\StaticText.o
+ .debug_info    0x00000efe      0xfb6 Objects - GMAP PIC32 Demo\Window.o
+ .debug_info    0x00001eb4     0x1170 Objects - GMAP PIC32 Demo\Button.o
+ .debug_info    0x00003024     0x2311 Objects - GMAP PIC32 Demo\Chart.o
+ .debug_info    0x00005335      0xfb6 Objects - GMAP PIC32 Demo\CheckBox.o
+ .debug_info    0x000062eb     0x10db Objects - GMAP PIC32 Demo\EditBox.o
+ .debug_info    0x000073c6     0x120a Objects - GMAP PIC32 Demo\GOL.o
+ .debug_info    0x000085d0      0x2e0 Objects - GMAP PIC32 Demo\GOLFontDefault.o
+ .debug_info    0x000088b0     0x113e Objects - GMAP PIC32 Demo\Grid.o
+ .debug_info    0x000099ee      0xf69 Objects - GMAP PIC32 Demo\GroupBox.o
+ .debug_info    0x0000a957     0x13ab Objects - GMAP PIC32 Demo\ListBox.o
+ .debug_info    0x0000bd02     0x1996 Objects - GMAP PIC32 Demo\Meter.o
+ .debug_info    0x0000d698      0xe83 Objects - GMAP PIC32 Demo\Picture.o
+ .debug_info    0x0000e51b     0x1649 Objects - GMAP PIC32 Demo\RadioButton.o
+ .debug_info    0x0000fb64     0x191b Objects - GMAP PIC32 Demo\Slider.o
+ .debug_info    0x0001147f     0x261d Objects - GMAP PIC32 Demo\Primitive.o
+ .debug_info    0x00013a9c      0xcc6 Objects - GMAP PIC32 Demo\SST25VF016.o
+ .debug_info    0x00014762      0xd12 Objects - GMAP PIC32 Demo\TouchScreen.o
+ .debug_info    0x00015474      0x720 Objects - GMAP PIC32 Demo\SSD1926.o
+ .debug_info    0x00015b94      0x3e0 Objects - GMAP PIC32 Demo\GOLSchemeDefault.o
+ .debug_info    0x00015f74      0x9cd Objects - GMAP PIC32 Demo\drv_spi.o
+ .debug_info    0x00016941     0x10fe Objects - GMAP PIC32 Demo\TouchScreenResistive.o
+ .debug_info    0x00017a3f     0x155d Objects - GMAP PIC32 Demo\TicTacToe.o
+ .debug_info    0x00018f9c      0x87e Objects - GMAP PIC32 Demo\TTT_Images.o
+ .debug_info    0x0001981a      0x986 Objects - GMAP PIC32 Demo\TCON_SSD1289.o
+ .debug_info    0x0001a1a0     0x14de Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+ .debug_info    0x0001b67e       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .debug_info    0x0001b6ae       0x31 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+ .debug_info    0x0001b6df       0x44 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc_free.o)
+ .debug_info    0x0001b723       0x78 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+ .debug_info    0x0001b79b      0x1aa C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .debug_info    0x0001b945       0x79 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .debug_info    0x0001b9be       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+ .debug_info    0x0001b9ee       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .debug_info    0x0001ba1e       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .debug_info    0x0001ba4e       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .debug_info    0x0001ba7e       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_getc.o)
+ .debug_info    0x0001baae       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_write.o)
+ .debug_info    0x0001bade       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .debug_info    0x0001bb0e       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_putc.o)
+ .debug_info    0x0001bb3e       0x42 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(pcache.o)
+ .debug_info    0x0001bb80       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_disable_interrupts_lib.o)
+ .debug_info    0x0001bbb0       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_restore_interrupts_lib.o)
+ .debug_info    0x0001bbe0       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_mv_int_lib.o)
+ .debug_info    0x0001bc10       0xc0 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_tbl_lib.o)
+ .debug_info    0x0001bcd0       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_ev_enable_flags_lib.o)
+ .debug_info    0x0001bd00       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_open_lib.o)
+ .debug_info    0x0001bd30       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_enable_lib.o)
+ .debug_info    0x0001bd60       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_write_event_control_flags_lib.o)
+ .debug_info    0x0001bd90       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_txfer_lib.o)
+ .debug_info    0x0001bdc0       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_interrupts_lib.o)
+
+.debug_abbrev   0x00000000     0x33a6
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x1a9 Objects - GMAP PIC32 Demo\StaticText.o
+ .debug_abbrev  0x000001a9      0x19c Objects - GMAP PIC32 Demo\Window.o
+ .debug_abbrev  0x00000345      0x26c Objects - GMAP PIC32 Demo\Button.o
+ .debug_abbrev  0x000005b1      0x261 Objects - GMAP PIC32 Demo\Chart.o
+ .debug_abbrev  0x00000812      0x19c Objects - GMAP PIC32 Demo\CheckBox.o
+ .debug_abbrev  0x000009ae      0x1e0 Objects - GMAP PIC32 Demo\EditBox.o
+ .debug_abbrev  0x00000b8e      0x246 Objects - GMAP PIC32 Demo\GOL.o
+ .debug_abbrev  0x00000dd4       0xa9 Objects - GMAP PIC32 Demo\GOLFontDefault.o
+ .debug_abbrev  0x00000e7d      0x21e Objects - GMAP PIC32 Demo\Grid.o
+ .debug_abbrev  0x0000109b      0x192 Objects - GMAP PIC32 Demo\GroupBox.o
+ .debug_abbrev  0x0000122d      0x242 Objects - GMAP PIC32 Demo\ListBox.o
+ .debug_abbrev  0x0000146f      0x272 Objects - GMAP PIC32 Demo\Meter.o
+ .debug_abbrev  0x000016e1      0x185 Objects - GMAP PIC32 Demo\Picture.o
+ .debug_abbrev  0x00001866      0x230 Objects - GMAP PIC32 Demo\RadioButton.o
+ .debug_abbrev  0x00001a96      0x26a Objects - GMAP PIC32 Demo\Slider.o
+ .debug_abbrev  0x00001d00      0x286 Objects - GMAP PIC32 Demo\Primitive.o
+ .debug_abbrev  0x00001f86      0x21d Objects - GMAP PIC32 Demo\SST25VF016.o
+ .debug_abbrev  0x000021a3      0x1c3 Objects - GMAP PIC32 Demo\TouchScreen.o
+ .debug_abbrev  0x00002366      0x107 Objects - GMAP PIC32 Demo\SSD1926.o
+ .debug_abbrev  0x0000246d       0xcb Objects - GMAP PIC32 Demo\GOLSchemeDefault.o
+ .debug_abbrev  0x00002538      0x1bb Objects - GMAP PIC32 Demo\drv_spi.o
+ .debug_abbrev  0x000026f3      0x20a Objects - GMAP PIC32 Demo\TouchScreenResistive.o
+ .debug_abbrev  0x000028fd      0x2aa Objects - GMAP PIC32 Demo\TicTacToe.o
+ .debug_abbrev  0x00002ba7      0x137 Objects - GMAP PIC32 Demo\TTT_Images.o
+ .debug_abbrev  0x00002cde      0x177 Objects - GMAP PIC32 Demo\TCON_SSD1289.o
+ .debug_abbrev  0x00002e55      0x1d0 Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+ .debug_abbrev  0x00003025       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .debug_abbrev  0x00003048       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+ .debug_abbrev  0x0000306b       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc_free.o)
+ .debug_abbrev  0x0000308e        0x1 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(errno.o)
+ .debug_abbrev  0x0000308f        0x1 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobdata.o)
+ .debug_abbrev  0x00003090       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+ .debug_abbrev  0x000030b3       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .debug_abbrev  0x000030d6       0x36 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .debug_abbrev  0x0000310c       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+ .debug_abbrev  0x0000312f       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .debug_abbrev  0x00003152       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .debug_abbrev  0x00003175       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .debug_abbrev  0x00003198       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_getc.o)
+ .debug_abbrev  0x000031bb       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_write.o)
+ .debug_abbrev  0x000031de       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .debug_abbrev  0x00003201       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_putc.o)
+ .debug_abbrev  0x00003224       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(pcache.o)
+ .debug_abbrev  0x00003247       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_disable_interrupts_lib.o)
+ .debug_abbrev  0x0000326a       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_restore_interrupts_lib.o)
+ .debug_abbrev  0x0000328d       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_mv_int_lib.o)
+ .debug_abbrev  0x000032b0       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_tbl_lib.o)
+ .debug_abbrev  0x000032d3       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_ev_enable_flags_lib.o)
+ .debug_abbrev  0x000032f6       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_open_lib.o)
+ .debug_abbrev  0x00003319       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_enable_lib.o)
+ .debug_abbrev  0x0000333c       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_write_event_control_flags_lib.o)
+ .debug_abbrev  0x0000335f       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_txfer_lib.o)
+ .debug_abbrev  0x00003382        0x1 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_reg_map_tbl_lib.o)
+ .debug_abbrev  0x00003383       0x23 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_interrupts_lib.o)
+
+.debug_line     0x00000000     0x5f8a
+ *(.debug_line)
+ .debug_line    0x00000000      0x284 Objects - GMAP PIC32 Demo\StaticText.o
+ .debug_line    0x00000284      0x272 Objects - GMAP PIC32 Demo\Window.o
+ .debug_line    0x000004f6      0x357 Objects - GMAP PIC32 Demo\Button.o
+ .debug_line    0x0000084d      0x94e Objects - GMAP PIC32 Demo\Chart.o
+ .debug_line    0x0000119b      0x2a0 Objects - GMAP PIC32 Demo\CheckBox.o
+ .debug_line    0x0000143b      0x2c3 Objects - GMAP PIC32 Demo\EditBox.o
+ .debug_line    0x000016fe      0x352 Objects - GMAP PIC32 Demo\GOL.o
+ .debug_line    0x00001a50       0x77 Objects - GMAP PIC32 Demo\GOLFontDefault.o
+ .debug_line    0x00001ac7      0x337 Objects - GMAP PIC32 Demo\Grid.o
+ .debug_line    0x00001dfe      0x28a Objects - GMAP PIC32 Demo\GroupBox.o
+ .debug_line    0x00002088      0x3b3 Objects - GMAP PIC32 Demo\ListBox.o
+ .debug_line    0x0000243b      0x3c9 Objects - GMAP PIC32 Demo\Meter.o
+ .debug_line    0x00002804      0x250 Objects - GMAP PIC32 Demo\Picture.o
+ .debug_line    0x00002a54      0x2d7 Objects - GMAP PIC32 Demo\RadioButton.o
+ .debug_line    0x00002d2b      0x3e3 Objects - GMAP PIC32 Demo\Slider.o
+ .debug_line    0x0000310e      0x8b4 Objects - GMAP PIC32 Demo\Primitive.o
+ .debug_line    0x000039c2      0x2a8 Objects - GMAP PIC32 Demo\SST25VF016.o
+ .debug_line    0x00003c6a      0x296 Objects - GMAP PIC32 Demo\TouchScreen.o
+ .debug_line    0x00003f00      0x13c Objects - GMAP PIC32 Demo\SSD1926.o
+ .debug_line    0x0000403c       0xbe Objects - GMAP PIC32 Demo\GOLSchemeDefault.o
+ .debug_line    0x000040fa      0x1dd Objects - GMAP PIC32 Demo\drv_spi.o
+ .debug_line    0x000042d7      0x373 Objects - GMAP PIC32 Demo\TouchScreenResistive.o
+ .debug_line    0x0000464a      0x38a Objects - GMAP PIC32 Demo\TicTacToe.o
+ .debug_line    0x000049d4      0x17c Objects - GMAP PIC32 Demo\TTT_Images.o
+ .debug_line    0x00004b50      0x1f4 Objects - GMAP PIC32 Demo\TCON_SSD1289.o
+ .debug_line    0x00004d44      0x40e Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+ .debug_line    0x00005152       0x7d C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .debug_line    0x000051cf       0x7f C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+ .debug_line    0x0000524e       0x84 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc_free.o)
+ .debug_line    0x000052d2       0x84 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+ .debug_line    0x00005356       0x80 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .debug_line    0x000053d6       0x7f C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .debug_line    0x00005455       0x9c C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+ .debug_line    0x000054f1       0x9e C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .debug_line    0x0000558f       0x8b C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .debug_line    0x0000561a       0x8f C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .debug_line    0x000056a9       0x84 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_getc.o)
+ .debug_line    0x0000572d       0x85 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_write.o)
+ .debug_line    0x000057b2       0x80 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .debug_line    0x00005832       0x84 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_putc.o)
+ .debug_line    0x000058b6       0x92 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(pcache.o)
+ .debug_line    0x00005948       0xa3 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_disable_interrupts_lib.o)
+ .debug_line    0x000059eb       0xa3 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_restore_interrupts_lib.o)
+ .debug_line    0x00005a8e       0x9e C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_mv_int_lib.o)
+ .debug_line    0x00005b2c       0x94 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_tbl_lib.o)
+ .debug_line    0x00005bc0       0xa8 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_ev_enable_flags_lib.o)
+ .debug_line    0x00005c68       0x99 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_open_lib.o)
+ .debug_line    0x00005d01       0x9b C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_enable_lib.o)
+ .debug_line    0x00005d9c       0xae C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_write_event_control_flags_lib.o)
+ .debug_line    0x00005e4a       0x9e C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_txfer_lib.o)
+ .debug_line    0x00005ee8       0xa2 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_interrupts_lib.o)
+
+.debug_frame    0x00000000     0x1ea4
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x8c Objects - GMAP PIC32 Demo\StaticText.o
+ .debug_frame   0x0000008c       0x90 Objects - GMAP PIC32 Demo\Window.o
+ .debug_frame   0x0000011c       0xcc Objects - GMAP PIC32 Demo\Button.o
+ .debug_frame   0x000001e8      0x214 Objects - GMAP PIC32 Demo\Chart.o
+ .debug_frame   0x000003fc       0xa8 Objects - GMAP PIC32 Demo\CheckBox.o
+ .debug_frame   0x000004a4       0xe0 Objects - GMAP PIC32 Demo\EditBox.o
+ .debug_frame   0x00000584      0x18c Objects - GMAP PIC32 Demo\GOL.o
+ .debug_frame   0x00000710      0x134 Objects - GMAP PIC32 Demo\Grid.o
+ .debug_frame   0x00000844       0x6c Objects - GMAP PIC32 Demo\GroupBox.o
+ .debug_frame   0x000008b0      0x15c Objects - GMAP PIC32 Demo\ListBox.o
+ .debug_frame   0x00000a0c       0xd0 Objects - GMAP PIC32 Demo\Meter.o
+ .debug_frame   0x00000adc       0x70 Objects - GMAP PIC32 Demo\Picture.o
+ .debug_frame   0x00000b4c       0xe0 Objects - GMAP PIC32 Demo\RadioButton.o
+ .debug_frame   0x00000c2c      0x164 Objects - GMAP PIC32 Demo\Slider.o
+ .debug_frame   0x00000d90      0x38c Objects - GMAP PIC32 Demo\Primitive.o
+ .debug_frame   0x0000111c      0x190 Objects - GMAP PIC32 Demo\SST25VF016.o
+ .debug_frame   0x000012ac       0x90 Objects - GMAP PIC32 Demo\TouchScreen.o
+ .debug_frame   0x0000133c       0x9c Objects - GMAP PIC32 Demo\drv_spi.o
+ .debug_frame   0x000013d8      0x15c Objects - GMAP PIC32 Demo\TouchScreenResistive.o
+ .debug_frame   0x00001534       0xf8 Objects - GMAP PIC32 Demo\TicTacToe.o
+ .debug_frame   0x0000162c       0x8c Objects - GMAP PIC32 Demo\TCON_SSD1289.o
+ .debug_frame   0x000016b8      0x16c Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+ .debug_frame   0x00001824       0x34 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+ .debug_frame   0x00001858       0x44 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+ .debug_frame   0x0000189c       0x40 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc_free.o)
+ .debug_frame   0x000018dc       0x90 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+ .debug_frame   0x0000196c      0x178 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+ .debug_frame   0x00001ae4       0xa0 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+ .debug_frame   0x00001b84       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+ .debug_frame   0x00001ba4       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+ .debug_frame   0x00001bc4       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+ .debug_frame   0x00001be4       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+ .debug_frame   0x00001c04       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_getc.o)
+ .debug_frame   0x00001c24       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_write.o)
+ .debug_frame   0x00001c54       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+ .debug_frame   0x00001c74       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_putc.o)
+ .debug_frame   0x00001c94       0x30 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(pcache.o)
+ .debug_frame   0x00001cc4       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_disable_interrupts_lib.o)
+ .debug_frame   0x00001ce4       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_restore_interrupts_lib.o)
+ .debug_frame   0x00001d04       0x28 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_mv_int_lib.o)
+ .debug_frame   0x00001d2c       0xa0 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_tbl_lib.o)
+ .debug_frame   0x00001dcc       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_ev_enable_flags_lib.o)
+ .debug_frame   0x00001dec       0x38 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_open_lib.o)
+ .debug_frame   0x00001e24       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_enable_lib.o)
+ .debug_frame   0x00001e44       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_write_event_control_flags_lib.o)
+ .debug_frame   0x00001e64       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_txfer_lib.o)
+ .debug_frame   0x00001e84       0x20 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_interrupts_lib.o)
+
+.debug_str      0x00000000     0x14fb
+ *(.debug_str)
+ .debug_str     0x00000000       0x12 Objects - GMAP PIC32 Demo\StaticText.o
+ .debug_str     0x00000012       0x12 Objects - GMAP PIC32 Demo\Window.o
+ .debug_str     0x00000024       0x19 Objects - GMAP PIC32 Demo\Button.o
+ .debug_str     0x0000003d       0x3a Objects - GMAP PIC32 Demo\Chart.o
+ .debug_str     0x00000077       0x12 Objects - GMAP PIC32 Demo\CheckBox.o
+ .debug_str     0x00000089       0x12 Objects - GMAP PIC32 Demo\EditBox.o
+ .debug_str     0x0000009b       0x9b Objects - GMAP PIC32 Demo\GOL.o
+ .debug_str     0x00000136       0x12 Objects - GMAP PIC32 Demo\GOLFontDefault.o
+ .debug_str     0x00000148       0x45 Objects - GMAP PIC32 Demo\Grid.o
+ .debug_str     0x0000018d       0x12 Objects - GMAP PIC32 Demo\GroupBox.o
+ .debug_str     0x0000019f       0x2b Objects - GMAP PIC32 Demo\ListBox.o
+ .debug_str     0x000001ca       0x46 Objects - GMAP PIC32 Demo\Meter.o
+ .debug_str     0x00000210       0x12 Objects - GMAP PIC32 Demo\Picture.o
+ .debug_str     0x00000222       0x1a Objects - GMAP PIC32 Demo\RadioButton.o
+ .debug_str     0x0000023c       0x3c Objects - GMAP PIC32 Demo\Slider.o
+ .debug_str     0x00000278       0x9e Objects - GMAP PIC32 Demo\Primitive.o
+ .debug_str     0x00000316       0x1a Objects - GMAP PIC32 Demo\SST25VF016.o
+ .debug_str     0x00000330       0x12 Objects - GMAP PIC32 Demo\TouchScreen.o
+ .debug_str     0x00000342       0x12 Objects - GMAP PIC32 Demo\SSD1926.o
+ .debug_str     0x00000354       0x12 Objects - GMAP PIC32 Demo\GOLSchemeDefault.o
+ .debug_str     0x00000366       0x1a Objects - GMAP PIC32 Demo\drv_spi.o
+ .debug_str     0x00000380       0x12 Objects - GMAP PIC32 Demo\TouchScreenResistive.o
+ .debug_str     0x00000392       0x30 Objects - GMAP PIC32 Demo\TicTacToe.o
+ .debug_str     0x000003c2       0x12 Objects - GMAP PIC32 Demo\TTT_Images.o
+ .debug_str     0x000003d4       0x12 Objects - GMAP PIC32 Demo\TCON_SSD1289.o
+ .debug_str     0x000003e6       0x82 Objects - GMAP PIC32 Demo\mchpGfxLCC.o
+ .debug_str     0x00000468       0xaa C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(exit.o)
+                                 0xaf (size before relaxing)
+ .debug_str     0x00000512       0x69 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc.o)
+                                 0xb3 (size before relaxing)
+ .debug_str     0x0000057b       0x78 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(malloc_free.o)
+                                 0xc2 (size before relaxing)
+ .debug_str     0x000005f3       0xb1 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_iobfuncs.o)
+                                 0xfb (size before relaxing)
+ .debug_str     0x000006a4      0x2d3 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(stubs.o)
+                                0x31d (size before relaxing)
+ .debug_str     0x00000977       0x93 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(sbrk.o)
+                                 0xe2 (size before relaxing)
+ .debug_str     0x00000a0a       0x9a C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-general-exception-handler.o)
+                                 0xe4 (size before relaxing)
+ .debug_str     0x00000aa4       0x9e C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-bootstrap-exception-handler.o)
+                                 0xe8 (size before relaxing)
+ .debug_str     0x00000b42       0x78 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-reset.o)
+                                 0xc2 (size before relaxing)
+ .debug_str     0x00000bba       0x80 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(default-on-bootstrap.o)
+                                 0xca (size before relaxing)
+ .debug_str     0x00000c3a       0x71 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_getc.o)
+                                 0xbb (size before relaxing)
+ .debug_str     0x00000cab       0x73 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_write.o)
+                                 0xbd (size before relaxing)
+ .debug_str     0x00000d1e       0x69 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_exit.o)
+                                 0xb3 (size before relaxing)
+ .debug_str     0x00000d87       0x71 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libc.a(_mon_putc.o)
+                                 0xbb (size before relaxing)
+ .debug_str     0x00000df8       0x96 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(pcache.o)
+                                 0xe0 (size before relaxing)
+ .debug_str     0x00000e8e       0x9b C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_disable_interrupts_lib.o)
+                                 0xe5 (size before relaxing)
+ .debug_str     0x00000f29       0x9b C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_restore_interrupts_lib.o)
+                                 0xe5 (size before relaxing)
+ .debug_str     0x00000fc4       0xa1 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_mv_int_lib.o)
+                                 0xeb (size before relaxing)
+ .debug_str     0x00001065      0x10b C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_tbl_lib.o)
+                                0x155 (size before relaxing)
+ .debug_str     0x00001170       0xa2 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_ev_enable_flags_lib.o)
+                                 0xec (size before relaxing)
+ .debug_str     0x00001212       0x87 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_open_lib.o)
+                                 0xd1 (size before relaxing)
+ .debug_str     0x00001299       0x8b C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_enable_lib.o)
+                                 0xd5 (size before relaxing)
+ .debug_str     0x00001324       0xae C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_write_event_control_flags_lib.o)
+                                 0xf8 (size before relaxing)
+ .debug_str     0x000013d2       0x90 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(dma_chn_set_txfer_lib.o)
+                                 0xda (size before relaxing)
+ .debug_str     0x00001462       0x99 C:/Program Files/Microchip/MPLAB C32 Suite/bin/../lib/gcc/pic32mx/3.4.4/../../../../pic32mx/lib\libmchp_peripheral_32MX795F512L.a(int_enable_interrupts_lib.o)
+                                 0xe3 (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+/DISCARD/
+ *(.note.GNU-stack)
+OUTPUT(Objects - GMAP PIC32 Demo\TicTacToe PIC32.elf elf32-tradlittlemips)
+
+.mdebug.abi32   0x9d024e9c        0x0
+
+.rel.dyn        0x9d024e9c        0x0

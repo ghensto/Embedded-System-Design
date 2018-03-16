@@ -1,0 +1,202 @@
+	if (screenState == CREATE_TICTACTOE) { //initialize tictactoe screen and variables
+	    GOLFree(); // free memory for the objects in the previous linked list and start new list	    
+	
+	    SetColor(RGB565CONVERT(0xFF, 0xFF, 0xFF)); //draw with white
+	    ClearDevice(); //clear whole screen to white
+	
+	    SetColor(RGB565CONVERT(0x00, 0x00, 0x00)); //draw with black
+		WAIT_UNTIL_FINISH(Bar(5, 80, 235, 85)); //draw lines for tictactoe board
+		WAIT_UNTIL_FINISH(Bar(5, 155, 235, 160));
+		WAIT_UNTIL_FINISH(Bar(80, 5, 85, 235));
+		WAIT_UNTIL_FINISH(Bar(155, 5, 160, 235));
+	
+		//init global variables for a new game
+		Pressed00 = 0;
+		Pressed01 = 0; 
+		Pressed02 = 0; 
+		Pressed10 = 0;  
+		Pressed11 = 0;  
+		Pressed12 = 0; 	
+		Pressed20 = 0;  
+		Pressed21 = 0;  
+		Pressed22 = 0; 
+		Win1 = 0;
+		Win2 = 0;
+		turn = 1;
+		GameOver = 0;
+		
+		//Create tictactoe game "buttons"
+	    BtnCreate
+	    (
+	        ID_TTT_00,                 // button ID
+	        TTTLeft(0),                // button dimensions
+	        TTTTop(0),
+	        TTTRight(0),
+	        TTTBottom(0),
+	        0,                          // set no radius
+	        BTN_DRAW,
+	        NULL,            			// bitmap that overlaps the button
+	        NULL,   					// icon label
+	        TTTColorScheme
+	    ); 
+	    BtnCreate
+	    (
+	        ID_TTT_01,                 // button ID
+	        TTTLeft(1),                // button dimensions
+	        TTTTop(0),
+	        TTTRight(1),
+	        TTTBottom(0),
+	        0,                          // set no radius
+	        BTN_DRAW,
+	        NULL,            			// bitmap that overlaps the button
+	        NULL,   					// icon label
+	        TTTColorScheme
+	    ); 
+	    BtnCreate
+	    (
+	        ID_TTT_02,                 // button ID
+	        TTTLeft(2),                // button dimensions
+	        TTTTop(0),
+	        TTTRight(2),
+	        TTTBottom(0),
+	        0,                          // set no radius
+	        BTN_DRAW,
+	        NULL,            			// bitmap that overlaps the button
+	        NULL,   					// icon label
+	        TTTColorScheme
+	    ); 
+	    BtnCreate
+	    (
+	        ID_TTT_10,                 // button ID
+	        TTTLeft(0),                // button dimensions
+	        TTTTop(1),
+	        TTTRight(0),
+	        TTTBottom(1),
+	        0,                          // set no radius
+	        BTN_DRAW,
+	        NULL,            			// bitmap that overlaps the button
+	        NULL,   					// icon label
+	        TTTColorScheme
+	    ); 
+	    BtnCreate
+	    (
+	        ID_TTT_11,                 // button ID
+	        TTTLeft(1),                // button dimensions
+	        TTTTop(1),
+	        TTTRight(1),
+	        TTTBottom(1),
+	        0,                          // set no radius
+	        BTN_DRAW,
+	        NULL,            			// bitmap that overlaps the button
+	        NULL,   					// icon label
+	        TTTColorScheme
+	    ); 
+	    BtnCreate
+	    (
+	        ID_TTT_12,                 // button ID
+	        TTTLeft(2),                // button dimensions
+	        TTTTop(1),
+	        TTTRight(2),
+	        TTTBottom(1),
+	        0,                          // set no radius
+	        BTN_DRAW,
+	        NULL,            			// bitmap that overlaps the button
+	        NULL,   					// icon label
+	        TTTColorScheme
+	    ); 
+	    BtnCreate
+	    (
+	        ID_TTT_20,                 // button ID
+	        TTTLeft(0),                // button dimensions
+	        TTTTop(2),
+	        TTTRight(0),
+	        TTTBottom(2),
+	        0,                          // set no radius
+	        BTN_DRAW,
+	        NULL,            			// bitmap that overlaps the button
+	        NULL,   					// icon label
+	        TTTColorScheme
+	    ); 
+	    BtnCreate
+	    (
+	        ID_TTT_21,                 // button ID
+	        TTTLeft(1),                // button dimensions
+	        TTTTop(2),
+	        TTTRight(1),
+	        TTTBottom(2),
+	        0,                          // set no radius
+	        BTN_DRAW,
+	        NULL,            			// bitmap that overlaps the button
+	        NULL,   					// icon label
+	        TTTColorScheme
+	    ); 
+	    BtnCreate
+	    (
+	        ID_TTT_22,                 // button ID
+	        TTTLeft(2),                // button dimensions
+	        TTTTop(2),
+	        TTTRight(2),
+	        TTTBottom(2),
+	        0,                          // set no radius
+	        BTN_DRAW,
+	        NULL,            			// bitmap that overlaps the button
+	        NULL,   					// icon label
+	        TTTColorScheme
+	    ); 
+
+		//Create Resign button
+	    BtnCreate
+	    (
+	        ID_TTT_RESET,
+	        240,			//left
+	        200,			//top
+	        320,			//right
+	        240,			//bottom
+	        0,				//no radius
+	        BTN_DRAW,
+	        NULL,
+	        ResetStr,
+	        TTTbuttonColorScheme
+		);
+
+		//Create Text (turn indicator)
+		TurnTxt = StCreate
+		(
+			ID_TTT_TURN,
+	        240,			//left
+	        5,				//top
+	        320,			//right
+	        25,				//bottom
+	        ST_DRAW | ST_CENTER_ALIGN,
+	        TurnStr,
+			TTTtextColorScheme
+		);
+		//Create Text (win indicator)
+		WinTxt = StCreate
+		(
+			ID_TTT_WIN,
+	        240,			//left
+	        95,				//top
+	        320,			//right
+			115,			//bottom
+	        ST_HIDE | ST_CENTER_ALIGN,
+	        WinStr,
+			TTTtextColorScheme
+		);
+		//Create Picture (turn/win indicator image)
+		TurnImg = PictCreate
+		(
+		    ID_TTT_TURN_IMG,
+	        250,			//left
+	        30,				//top
+	        310,			//right
+	        90,				//bottom
+		    PICT_DRAW,
+		    1,				//scale
+		    (void *) &TTTX,
+		    TTTColorScheme
+		);
+		screenState = DISPLAY_TICTACTOE; //tictactoe screen done drawing, now process messages (start game)
+		return (1);
+	}
+    return (1); // release drawing control to GOL

@@ -1,0 +1,96 @@
+/************************************************************************
+ Function: void InitTicTacToeStyleScheme(GOL_SCHEME *pScheme)        
+ Overview: This function initializes the style scheme
+************************************************************************/
+void InitTicTacToeStyleScheme(void)
+{
+	TTTColorScheme = 						GOLCreateScheme();
+	TTTbuttonColorScheme = 					GOLCreateScheme();
+	TTTtextColorScheme = 					GOLCreateScheme();
+
+	//for the game "buttons" which are pressed to play
+    TTTColorScheme->Color0 = 				RGB565CONVERT(0xFF, 0xFF, 0xFF);
+    TTTColorScheme->Color1 = 				RGB565CONVERT(0xAA, 0xAA, 0xAA);
+    TTTColorScheme->EmbossDkColor = 		RGB565CONVERT(0xFF, 0xFF, 0xFF);
+    TTTColorScheme->EmbossLtColor = 		RGB565CONVERT(0xFF, 0xFF, 0xFF);
+    TTTColorScheme->TextColor0 = 			RGB565CONVERT(0xFF, 0xFF, 0xFF);
+    TTTColorScheme->TextColor1 = 			RGB565CONVERT(0xFF, 0xFF, 0xFF);
+
+	//for the reset button
+    TTTbuttonColorScheme->Color0 = 			RGB565CONVERT(0x77, 0x77, 0xDD);
+    TTTbuttonColorScheme->Color1 = 			RGB565CONVERT(0xFF, 0xFF, 0x44);
+    TTTbuttonColorScheme->EmbossDkColor = 	RGB565CONVERT(0x22, 0x22, 0xAA);
+    TTTbuttonColorScheme->EmbossLtColor = 	RGB565CONVERT(0x99, 0x99, 0xFF);
+    TTTbuttonColorScheme->TextColor0 = 		RGB565CONVERT(0xFF, 0xFF, 0x44);
+    TTTbuttonColorScheme->TextColor1 = 		RGB565CONVERT(0x77, 0x77, 0xDD);
+
+	//for the text
+    TTTtextColorScheme->Color0 = 			RGB565CONVERT(0xFF, 0xFF, 0xFF);
+    TTTtextColorScheme->Color1 = 			RGB565CONVERT(0xFF, 0xFF, 0xFF);
+    TTTtextColorScheme->TextColor0 = 		RGB565CONVERT(0x00, 0x00, 0x00);
+    TTTtextColorScheme->TextColor1 = 		RGB565CONVERT(0x00, 0x00, 0x00);
+    TTTtextColorScheme->CommonBkColor = 	RGB565CONVERT(0xFF, 0xFF, 0xFF);
+}
+
+/*********************************************************************
+* Function: CheckWin()
+* Overview: Check for a winner or a draw.
+*********************************************************************/
+void CheckWin(void)
+{
+	//Check Player 1 Win
+	//rows
+	if (Pressed00 == 1 && Pressed01 == 1 && Pressed02 == 1) Win1 = 1;
+	if (Pressed10 == 1 && Pressed11 == 1 && Pressed12 == 1) Win1 = 1;
+	if (Pressed20 == 1 && Pressed21 == 1 && Pressed22 == 1) Win1 = 1;
+
+	//columns
+	if (Pressed00 == 1 && Pressed10 == 1 && Pressed20 == 1) Win1 = 1;
+	if (Pressed01 == 1 && Pressed11 == 1 && Pressed21 == 1) Win1 = 1;
+	if (Pressed02 == 1 && Pressed12 == 1 && Pressed22 == 1) Win1 = 1;
+
+	//diagonals
+	if (Pressed00 == 1 && Pressed11 == 1 && Pressed22 == 1) Win1 = 1;
+	if (Pressed02 == 1 && Pressed11 == 1 && Pressed20 == 1) Win1 = 1;
+
+	//Check Player 2 Win
+	//rows
+	if (Pressed00 == 2 && Pressed01 == 2 && Pressed02 == 2) Win2 = 1;
+	if (Pressed10 == 2 && Pressed11 == 2 && Pressed12 == 2) Win2 = 1;
+	if (Pressed20 == 2 && Pressed21 == 2 && Pressed22 == 2) Win2 = 1;
+
+	//columns
+	if (Pressed00 == 2 && Pressed10 == 2 && Pressed20 == 2) Win2 = 1;
+	if (Pressed01 == 2 && Pressed11 == 2 && Pressed21 == 2) Win2 = 1;
+	if (Pressed02 == 2 && Pressed12 == 2 && Pressed22 == 2) Win2 = 1;
+
+	//diagonals
+	if (Pressed00 == 2 && Pressed11 == 2 && Pressed22 == 2) Win2 = 1;
+	if (Pressed02 == 2 && Pressed11 == 2 && Pressed20 == 2) Win2 = 1;
+
+	//Check if there is a winner and end game if there is
+	if (Win1 || Win2) {
+		SetState(TurnTxt, ST_HIDE);
+		SetState(WinTxt, ST_DRAW | ST_CENTER_ALIGN);
+		GameOver = 1;
+		return;
+	}
+	//If no winner, check for a draw
+	else if (Pressed00 && Pressed01 && Pressed02 && Pressed10 && Pressed11 && Pressed12 && Pressed20 && Pressed21 && Pressed22) {
+		SetState(TurnTxt, ST_HIDE);
+		SetState(TurnImg, PICT_HIDE);
+		StSetText(WinTxt, DrawStr);
+		SetState(WinTxt, ST_DRAW | ST_CENTER_ALIGN);
+		GameOver = 1;
+		return;
+	}
+
+	//set image for whose turn it is
+	if (turn == 1) {
+		PictSetBitmap(TurnImg, (void *) &TTTX);
+	}
+	if (turn == 2) {
+		PictSetBitmap(TurnImg, (void *) &TTTO);
+	}
+	SetState(TurnImg, PICT_DRAW); //now redraw image with new settings 
+}
